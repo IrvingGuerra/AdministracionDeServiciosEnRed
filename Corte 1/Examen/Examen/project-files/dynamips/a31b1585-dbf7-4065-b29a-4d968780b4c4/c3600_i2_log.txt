@@ -1,0 +1,1262 @@
+Sep 12 09:49:19.779 VTTY: Console port: waiting connection on tcp port 5001 for protocol IPv4 (FD 13)
+Sep 12 09:49:20.169 C3600_BOOT: starting instance (CPU0 PC=0xffffffffbfc00000,idle_pc=0x6050b114,JIT on)
+Sep 12 09:49:20.169 CPU0: CPU_STATE: Starting CPU (old state=2)...
+Sep 12 09:49:20.181 ROM: Microcode has started.
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.200 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.201 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.202 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.203 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.204 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.205 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.206 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.206 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.206 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.206 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.206 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.206 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.206 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.206 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.206 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.206 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.206 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.206 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.206 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.206 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.206 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.206 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.206 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.206 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.206 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.206 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.206 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.206 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.206 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.206 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.206 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.206 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.206 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.206 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.215 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.223 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.228 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.235 CPU0: IO_FPGA: write to unknown addr 0x30006, value=0x0, pc=0x605bbfdc (size=1)
+Sep 12 09:49:20.236 ROM: unhandled syscall 0x00000047 at pc=0x60508a38 (a1=0x62944dcc,a2=0x00000000,a3=0x00000000)
+Sep 12 09:49:20.367 ROM: trying to read bootvar 'RANDOM_NUM'
+Sep 12 09:49:20.372 CPU0: PCI: read request for device 'dec21052' at pc=0x605c80cc: bus=0,device=2,function=0,reg=0x00
+Sep 12 09:49:20.379 ROM: unhandled syscall 0x00000017 at pc=0x60508a38 (a1=0xffffffff,a2=0x6294d490,a3=0x80007d5c)
+Sep 12 09:49:20.379 CPU0: PCI: read request for device 'gt64010' at pc=0x605c8324: bus=0,device=0,function=0,reg=0x08
+Sep 12 09:49:20.379 CPU0: PCI: read request for device 'gt64010' at pc=0x605c80cc: bus=0,device=0,function=0,reg=0x00
+Sep 12 09:49:20.379 CPU0: PCI: write request (data=0x0000011f) for device 'gt64010' at pc=0x605c7ff4: bus=0,device=0,function=0,reg=0x04
+Sep 12 09:49:20.379 CPU0: PCI: write request (data=0x00000000) for device 'gt64010' at pc=0x605c7ff4: bus=0,device=0,function=0,reg=0x10
+Sep 12 09:49:20.379 CPU0: PCI: write request (data=0x10000000) for device 'gt64010' at pc=0x605c7ff4: bus=0,device=0,function=0,reg=0x14
+Sep 12 09:49:20.379 CPU0: PCI: read request for device 'gt64010' at pc=0x605c80cc: bus=0,device=0,function=0,reg=0x00
+Sep 12 09:49:20.379 CPU0: PCI: write request (data=0xc0000000) for device 'gt64010' at pc=0x605c7ff4: bus=0,device=0,function=0,reg=0x28
+Sep 12 09:49:20.379 CPU0: PCI: write request (data=0xd0000000) for device 'gt64010' at pc=0x605c7ff4: bus=0,device=0,function=0,reg=0x2c
+Sep 12 09:49:20.379 CPU0: PCI: write request (data=0x00000000) for device 'gt64010' at pc=0x605c7ff4: bus=0,device=0,function=0,reg=0x30
+Sep 12 09:49:20.379 CPU0: PCI: read request for device 'gt64010' at pc=0x605c80cc: bus=0,device=0,function=0,reg=0x34
+Sep 12 09:49:20.379 CPU0: PCI: write request (data=0x00000001) for device 'gt64010' at pc=0x605c7ff4: bus=0,device=0,function=0,reg=0x34
+Sep 12 09:49:20.379 CPU0: PCI: write request (data=0x00000000) for device 'gt64010' at pc=0x605c7ff4: bus=0,device=0,function=0,reg=0x18
+Sep 12 09:49:20.379 CPU0: PCI: write request (data=0x00000000) for device 'gt64010' at pc=0x605c7ff4: bus=0,device=0,function=0,reg=0x1c
+Sep 12 09:49:20.379 CPU0: PCI: write request (data=0x00000007) for device 'gt64010' at pc=0x605c7ff4: bus=0,device=0,function=0,reg=0x0c
+Sep 12 09:49:20.379 CPU0: PCI: read request for device 'dec21052' at pc=0x605c80cc: bus=0,device=2,function=0,reg=0x00
+Sep 12 09:49:20.380 CPU0: PCI: read request for device 'dec21052' at pc=0x605c80cc: bus=0,device=2,function=0,reg=0x40
+Sep 12 09:49:20.380 CPU0: PCI: write request (data=0x00000007) for device 'dec21052' at pc=0x605c7fe8: bus=0,device=2,function=0,reg=0x04
+Sep 12 09:49:20.380 CPU0: PCI: write request (data=0x0000f810) for device 'dec21052' at pc=0x605c7fe8: bus=0,device=2,function=0,reg=0x0c
+Sep 12 09:49:20.380 CPU0: PCI: write request (data=0x00010100) for device 'dec21052' at pc=0x605c7fe8: bus=0,device=2,function=0,reg=0x18
+Sep 12 09:49:20.380 PCI: PCI bridge 0,2,0 -> pri: 00, sec: 01, sub: 01
+Sep 12 09:49:20.380 CPU0: PCI: write request (data=0xffffffc0) for device 'dec21052' at pc=0x605c7fe8: bus=0,device=2,function=0,reg=0x1c
+Sep 12 09:49:20.380 CPU0: PCI: write request (data=0x4ef04e00) for device 'dec21052' at pc=0x605c7fe8: bus=0,device=2,function=0,reg=0x20
+Sep 12 09:49:20.380 CPU0: PCI: write request (data=0x4e004ef0) for device 'dec21052' at pc=0x605c7fe8: bus=0,device=2,function=0,reg=0x24
+Sep 12 09:49:20.380 CPU0: PCI: write request (data=0x00000000) for device 'dec21052' at pc=0x605c7fe8: bus=0,device=2,function=0,reg=0x3c
+Sep 12 09:49:20.380 CPU0: PCI: write request (data=0x00080000) for device 'dec21052' at pc=0x605c7fe8: bus=0,device=2,function=0,reg=0x40
+Sep 12 09:49:20.380 CPU0: PCI: write request (data=0x00008020) for device 'dec21052' at pc=0x605c7fe8: bus=0,device=2,function=0,reg=0x44
+Sep 12 09:49:20.380 CPU0: PCI: read request for device 'dec21052' at pc=0x605c80cc: bus=0,device=3,function=0,reg=0x00
+Sep 12 09:49:20.380 CPU0: PCI: read request for device 'dec21052' at pc=0x605c80cc: bus=0,device=3,function=0,reg=0x40
+Sep 12 09:49:20.380 CPU0: PCI: write request (data=0x00000007) for device 'dec21052' at pc=0x605c7fe8: bus=0,device=3,function=0,reg=0x04
+Sep 12 09:49:20.380 CPU0: PCI: write request (data=0x0000f810) for device 'dec21052' at pc=0x605c7fe8: bus=0,device=3,function=0,reg=0x0c
+Sep 12 09:49:20.380 CPU0: PCI: write request (data=0x00020200) for device 'dec21052' at pc=0x605c7fe8: bus=0,device=3,function=0,reg=0x18
+Sep 12 09:49:20.380 PCI: PCI bridge 0,3,0 -> pri: 00, sec: 02, sub: 02
+Sep 12 09:49:20.380 CPU0: PCI: write request (data=0xffffbf80) for device 'dec21052' at pc=0x605c7fe8: bus=0,device=3,function=0,reg=0x1c
+Sep 12 09:49:20.380 CPU0: PCI: write request (data=0x4df04d00) for device 'dec21052' at pc=0x605c7fe8: bus=0,device=3,function=0,reg=0x20
+Sep 12 09:49:20.380 CPU0: PCI: write request (data=0x4d004df0) for device 'dec21052' at pc=0x605c7fe8: bus=0,device=3,function=0,reg=0x24
+Sep 12 09:49:20.380 CPU0: PCI: write request (data=0x00000000) for device 'dec21052' at pc=0x605c7fe8: bus=0,device=3,function=0,reg=0x3c
+Sep 12 09:49:20.380 CPU0: PCI: write request (data=0x00080000) for device 'dec21052' at pc=0x605c7fe8: bus=0,device=3,function=0,reg=0x40
+Sep 12 09:49:20.380 CPU0: PCI: write request (data=0x00008020) for device 'dec21052' at pc=0x605c7fe8: bus=0,device=3,function=0,reg=0x44
+Sep 12 09:49:20.380 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:20.380 CPU0: PCI: write request (data=0x000001c3) for device 'clpd6729' at pc=0x605c7fe8: bus=0,device=20,function=0,reg=0x04
+Sep 12 09:49:20.380 CPU0: PCI: write request (data=0x00004403) for device 'clpd6729' at pc=0x605c7fe8: bus=0,device=20,function=0,reg=0x10
+Sep 12 09:49:20.380 CPU0: PCI: read request for device 'dec21052' at pc=0x605c80cc: bus=0,device=2,function=0,reg=0x00
+Sep 12 09:49:20.380 CPU0: PCI: read request for device 'dec21052' at pc=0x605c80cc: bus=0,device=2,function=0,reg=0x00
+Sep 12 09:49:20.383 ROM: unhandled syscall 0x0000003e at pc=0x60508a38 (a1=0x00002580,a2=0x00002580,a3=0x63750000)
+Sep 12 09:49:20.383 ROM: unhandled syscall 0x00000047 at pc=0x60508a38 (a1=0x0000c100,a2=0x00000000,a3=0x63750000)
+Sep 12 09:49:20.893 ROM: trying to read bootvar 'BOOT'
+Sep 12 09:49:20.893 ROM: trying to read bootvar 'CONFIG_FILE'
+Sep 12 09:49:20.893 ROM: trying to read bootvar 'BOOTLDR'
+Sep 12 09:49:20.893 ROM: trying to read bootvar 'RSHELF'
+Sep 12 09:49:20.893 ROM: trying to read bootvar 'DSHELF'
+Sep 12 09:49:20.893 ROM: trying to read bootvar 'DSHELFINFO'
+Sep 12 09:49:20.893 ROM: trying to read bootvar 'RESET_COUNTER'
+Sep 12 09:49:20.894 ROM: trying to read bootvar 'CHRG_LOCRECSN'
+Sep 12 09:49:20.894 ROM: trying to read bootvar 'CHRG_ID'
+Sep 12 09:49:20.894 ROM: trying to read bootvar 'SLOTCACHE'
+Sep 12 09:49:20.894 ROM: trying to read bootvar 'OVERTEMP'
+Sep 12 09:49:20.894 ROM: trying to read bootvar 'DIAG'
+Sep 12 09:49:20.894 ROM: trying to read bootvar 'WARM_REBOOT'
+Sep 12 09:49:21.175 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.175 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.175 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.175 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.175 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.175 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.175 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.175 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.177 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.178 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.179 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.179 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.179 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.179 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.179 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.179 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.179 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.179 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.179 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.179 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.179 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.179 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.179 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.179 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.179 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.179 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.179 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.179 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.179 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.179 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.179 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.179 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.199 bootflash: flash_cmd(0): command 0xc3 not implemented
+Sep 12 09:49:21.199 bootflash: flash_cmd(1): command 0xc3 not implemented
+Sep 12 09:49:21.199 bootflash: flash_cmd(2): command 0xc3 not implemented
+Sep 12 09:49:21.199 bootflash: flash_cmd(3): command 0xc3 not implemented
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: CLPD6729: ext reg index 0x05 at pc=0x605ce868
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.251 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: CLPD6729: ext reg index 0x06 at pc=0x605ce868
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: CLPD6729: ext reg index 0x07 at pc=0x605ce868
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.252 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: CLPD6729: ext reg index 0x05 at pc=0x605ce868
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.253 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: CLPD6729: ext reg index 0x06 at pc=0x605ce868
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.254 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.255 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.255 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.255 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.255 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.255 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.255 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.255 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.255 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.255 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.255 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.255 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.255 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.255 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.255 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.255 CPU0: CLPD6729: ext reg index 0x07 at pc=0x605ce868
+Sep 12 09:49:21.255 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.255 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.255 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.255 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.255 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.255 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.255 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.255 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.255 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.255 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.255 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.255 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.255 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.255 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.255 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.255 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.255 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.255 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.255 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:21.470 CPU0: PCI: read request for device 'NM-4E(0)' at pc=0x605c80cc: bus=2,device=0,function=0,reg=0x00
+Sep 12 09:49:21.470 CPU0: PCI: read request for device 'NM-4E(0)' at pc=0x605c80cc: bus=2,device=0,function=0,reg=0x00
+Sep 12 09:49:21.471 CPU0: PCI: write request (data=0x4d000000) for device 'NM-4E(0)' at pc=0x605c7fe8: bus=2,device=0,function=0,reg=0x14
+Sep 12 09:49:21.471 NM-4E(0): registers are mapped at 0x4d000000
+Sep 12 09:49:21.471 CPU0: PCI: write request (data=0x00000006) for device 'NM-4E(0)' at pc=0x605c7fe8: bus=2,device=0,function=0,reg=0x04
+Sep 12 09:49:21.471 CPU0: PCI: write request (data=0x00004000) for device 'NM-4E(0)' at pc=0x605c7fe8: bus=2,device=0,function=0,reg=0x0c
+Sep 12 09:49:21.471 CPU0: PCI: read request for device 'NM-4E(0)' at pc=0x605c80cc: bus=2,device=0,function=0,reg=0x00
+Sep 12 09:49:21.481 NM-4E(0): fetching init block at address 0x0b818760
+Sep 12 09:49:21.481 NM-4E(0): rx_ring = 0x0b8187c0 (32), tx_ring = 0x0b818a00 (64)
+Sep 12 09:49:21.481 NM-4E(0): CSR0 = 0x0101
+Sep 12 09:49:21.481 CPU0: PCI: read request for device 'NM-4E(0)' at pc=0x605c80cc: bus=2,device=1,function=0,reg=0x00
+Sep 12 09:49:21.481 CPU0: PCI: read request for device 'NM-4E(0)' at pc=0x605c80cc: bus=2,device=1,function=0,reg=0x00
+Sep 12 09:49:21.481 CPU0: PCI: write request (data=0x4d100000) for device 'NM-4E(0)' at pc=0x605c7fe8: bus=2,device=1,function=0,reg=0x14
+Sep 12 09:49:21.481 NM-4E(0): registers are mapped at 0x4d100000
+Sep 12 09:49:21.481 CPU0: PCI: write request (data=0x00000006) for device 'NM-4E(0)' at pc=0x605c7fe8: bus=2,device=1,function=0,reg=0x04
+Sep 12 09:49:21.481 CPU0: PCI: write request (data=0x00004000) for device 'NM-4E(0)' at pc=0x605c7fe8: bus=2,device=1,function=0,reg=0x0c
+Sep 12 09:49:21.481 CPU0: PCI: read request for device 'NM-4E(0)' at pc=0x605c80cc: bus=2,device=1,function=0,reg=0x00
+Sep 12 09:49:21.483 NM-4E(0): fetching init block at address 0x0b83f280
+Sep 12 09:49:21.483 NM-4E(0): rx_ring = 0x0b83f2e0 (32), tx_ring = 0x0b83f520 (64)
+Sep 12 09:49:21.483 NM-4E(0): CSR0 = 0x0101
+Sep 12 09:49:21.483 CPU0: PCI: read request for device 'NM-4E(0)' at pc=0x605c80cc: bus=2,device=2,function=0,reg=0x00
+Sep 12 09:49:21.483 CPU0: PCI: read request for device 'NM-4E(0)' at pc=0x605c80cc: bus=2,device=2,function=0,reg=0x00
+Sep 12 09:49:21.483 CPU0: PCI: write request (data=0x4d200000) for device 'NM-4E(0)' at pc=0x605c7fe8: bus=2,device=2,function=0,reg=0x14
+Sep 12 09:49:21.483 NM-4E(0): registers are mapped at 0x4d200000
+Sep 12 09:49:21.483 CPU0: PCI: write request (data=0x00000006) for device 'NM-4E(0)' at pc=0x605c7fe8: bus=2,device=2,function=0,reg=0x04
+Sep 12 09:49:21.483 CPU0: PCI: write request (data=0x00004000) for device 'NM-4E(0)' at pc=0x605c7fe8: bus=2,device=2,function=0,reg=0x0c
+Sep 12 09:49:21.483 CPU0: PCI: read request for device 'NM-4E(0)' at pc=0x605c80cc: bus=2,device=2,function=0,reg=0x00
+Sep 12 09:49:21.485 NM-4E(0): fetching init block at address 0x0b865da0
+Sep 12 09:49:21.485 NM-4E(0): rx_ring = 0x0b865e00 (32), tx_ring = 0x0b866040 (64)
+Sep 12 09:49:21.485 NM-4E(0): CSR0 = 0x0101
+Sep 12 09:49:21.485 CPU0: PCI: read request for device 'NM-4E(0)' at pc=0x605c80cc: bus=2,device=3,function=0,reg=0x00
+Sep 12 09:49:21.485 CPU0: PCI: read request for device 'NM-4E(0)' at pc=0x605c80cc: bus=2,device=3,function=0,reg=0x00
+Sep 12 09:49:21.485 CPU0: PCI: write request (data=0x4d300000) for device 'NM-4E(0)' at pc=0x605c7fe8: bus=2,device=3,function=0,reg=0x14
+Sep 12 09:49:21.485 NM-4E(0): registers are mapped at 0x4d300000
+Sep 12 09:49:21.485 CPU0: PCI: write request (data=0x00000006) for device 'NM-4E(0)' at pc=0x605c7fe8: bus=2,device=3,function=0,reg=0x04
+Sep 12 09:49:21.485 CPU0: PCI: write request (data=0x00004000) for device 'NM-4E(0)' at pc=0x605c7fe8: bus=2,device=3,function=0,reg=0x0c
+Sep 12 09:49:21.485 CPU0: PCI: read request for device 'NM-4E(0)' at pc=0x605c80cc: bus=2,device=3,function=0,reg=0x00
+Sep 12 09:49:21.487 NM-4E(0): fetching init block at address 0x0b88c8c0
+Sep 12 09:49:21.487 NM-4E(0): rx_ring = 0x0b88c920 (32), tx_ring = 0x0b88cb60 (64)
+Sep 12 09:49:21.487 NM-4E(0): CSR0 = 0x0101
+Sep 12 09:49:21.489 CPU0: PCI: read request for device 'NM-1FE-TX(1)' at pc=0x605c80cc: bus=1,device=0,function=0,reg=0x00
+Sep 12 09:49:21.489 CPU0: PCI: read request for device 'NM-1FE-TX(1)' at pc=0x605c80cc: bus=1,device=0,function=0,reg=0x00
+Sep 12 09:49:21.489 CPU0: PCI: write request (data=0x4e000000) for device 'NM-1FE-TX(1)' at pc=0x605c7fe8: bus=1,device=0,function=0,reg=0x14
+Sep 12 09:49:21.489 NM-1FE-TX(1): registers are mapped at 0x4e000000
+Sep 12 09:49:21.489 CPU0: PCI: write request (data=0x00000006) for device 'NM-1FE-TX(1)' at pc=0x605c7fe8: bus=1,device=0,function=0,reg=0x04
+Sep 12 09:49:21.489 CPU0: PCI: write request (data=0x00004000) for device 'NM-1FE-TX(1)' at pc=0x605c7fe8: bus=1,device=0,function=0,reg=0x0c
+Sep 12 09:49:21.489 CPU0: PCI: read request for device 'NM-1FE-TX(1)' at pc=0x605c80cc: bus=1,device=0,function=0,reg=0x00
+Sep 12 09:49:21.489 CPU0: PCI: write request (data=0x00004000) for device 'NM-1FE-TX(1)' at pc=0x605c7fe8: bus=1,device=0,function=0,reg=0x0c
+Sep 12 09:49:21.492 CPU0: IO_FPGA: write to unknown addr 0x1000a, value=0x1, pc=0x60030718 (size=1)
+Sep 12 09:49:21.492 CPU0: IO_FPGA: write to unknown addr 0x1000a, value=0x1, pc=0x600307a0 (size=1)
+Sep 12 09:49:21.492 NM-1FE-TX(1): fetching init block at address 0x0b8b33e0
+Sep 12 09:49:21.492 NM-1FE-TX(1): rx_ring = 0x0b8b3440 (64), tx_ring = 0x0b8b3880 (128)
+Sep 12 09:49:21.492 NM-1FE-TX(1): CSR0 = 0x0101
+Sep 12 09:49:21.492 CPU0: PCI: read request for device 'NM-1FE-TX(2)' at pc=0x605c80cc: bus=2,device=8,function=0,reg=0x00
+Sep 12 09:49:21.492 CPU0: PCI: read request for device 'NM-1FE-TX(2)' at pc=0x605c80cc: bus=2,device=8,function=0,reg=0x00
+Sep 12 09:49:21.492 CPU0: PCI: write request (data=0x4d800000) for device 'NM-1FE-TX(2)' at pc=0x605c7fe8: bus=2,device=8,function=0,reg=0x14
+Sep 12 09:49:21.492 NM-1FE-TX(2): registers are mapped at 0x4d800000
+Sep 12 09:49:21.492 CPU0: PCI: write request (data=0x00000006) for device 'NM-1FE-TX(2)' at pc=0x605c7fe8: bus=2,device=8,function=0,reg=0x04
+Sep 12 09:49:21.492 CPU0: PCI: write request (data=0x00004000) for device 'NM-1FE-TX(2)' at pc=0x605c7fe8: bus=2,device=8,function=0,reg=0x0c
+Sep 12 09:49:21.493 CPU0: PCI: read request for device 'NM-1FE-TX(2)' at pc=0x605c80cc: bus=2,device=8,function=0,reg=0x00
+Sep 12 09:49:21.493 CPU0: PCI: write request (data=0x00004000) for device 'NM-1FE-TX(2)' at pc=0x605c7fe8: bus=2,device=8,function=0,reg=0x0c
+Sep 12 09:49:21.496 CPU0: IO_FPGA: write to unknown addr 0x1000a, value=0x1, pc=0x60030718 (size=1)
+Sep 12 09:49:21.496 CPU0: IO_FPGA: write to unknown addr 0x1000a, value=0x1, pc=0x600307a0 (size=1)
+Sep 12 09:49:21.496 NM-1FE-TX(2): fetching init block at address 0x0b902100
+Sep 12 09:49:21.496 NM-1FE-TX(2): rx_ring = 0x0b902160 (64), tx_ring = 0x0b9025a0 (128)
+Sep 12 09:49:21.496 NM-1FE-TX(2): CSR0 = 0x0101
+Sep 12 09:49:21.496 CPU0: PCI: read request for device 'NM-1FE-TX(3)' at pc=0x605c80cc: bus=1,device=8,function=0,reg=0x00
+Sep 12 09:49:21.496 CPU0: PCI: read request for device 'NM-1FE-TX(3)' at pc=0x605c80cc: bus=1,device=8,function=0,reg=0x00
+Sep 12 09:49:21.496 CPU0: PCI: write request (data=0x4e800000) for device 'NM-1FE-TX(3)' at pc=0x605c7fe8: bus=1,device=8,function=0,reg=0x14
+Sep 12 09:49:21.496 NM-1FE-TX(3): registers are mapped at 0x4e800000
+Sep 12 09:49:21.496 CPU0: PCI: write request (data=0x00000006) for device 'NM-1FE-TX(3)' at pc=0x605c7fe8: bus=1,device=8,function=0,reg=0x04
+Sep 12 09:49:21.496 CPU0: PCI: write request (data=0x00004000) for device 'NM-1FE-TX(3)' at pc=0x605c7fe8: bus=1,device=8,function=0,reg=0x0c
+Sep 12 09:49:21.496 CPU0: PCI: read request for device 'NM-1FE-TX(3)' at pc=0x605c80cc: bus=1,device=8,function=0,reg=0x00
+Sep 12 09:49:21.496 CPU0: PCI: write request (data=0x00004000) for device 'NM-1FE-TX(3)' at pc=0x605c7fe8: bus=1,device=8,function=0,reg=0x0c
+Sep 12 09:49:21.499 CPU0: IO_FPGA: write to unknown addr 0x1000a, value=0x1, pc=0x60030718 (size=1)
+Sep 12 09:49:21.499 CPU0: IO_FPGA: write to unknown addr 0x1000a, value=0x1, pc=0x600307a0 (size=1)
+Sep 12 09:49:21.499 NM-1FE-TX(3): fetching init block at address 0x0b950e20
+Sep 12 09:49:21.499 NM-1FE-TX(3): rx_ring = 0x0b950e80 (64), tx_ring = 0x0b9512c0 (128)
+Sep 12 09:49:21.499 NM-1FE-TX(3): CSR0 = 0x0101
+Sep 12 09:49:21.502 NM-4E(0): fetching init block at address 0x0b818760
+Sep 12 09:49:21.502 NM-4E(0): rx_ring = 0x0b8187c0 (32), tx_ring = 0x0b818a00 (64)
+Sep 12 09:49:21.502 NM-4E(0): CSR0 = 0x0101
+Sep 12 09:49:21.502 NM-4E(0): fetching init block at address 0x0b83f280
+Sep 12 09:49:21.502 NM-4E(0): rx_ring = 0x0b83f2e0 (32), tx_ring = 0x0b83f520 (64)
+Sep 12 09:49:21.502 NM-4E(0): CSR0 = 0x0101
+Sep 12 09:49:21.503 NM-4E(0): fetching init block at address 0x0b865da0
+Sep 12 09:49:21.503 NM-4E(0): rx_ring = 0x0b865e00 (32), tx_ring = 0x0b866040 (64)
+Sep 12 09:49:21.503 NM-4E(0): CSR0 = 0x0101
+Sep 12 09:49:21.503 NM-4E(0): fetching init block at address 0x0b88c8c0
+Sep 12 09:49:21.503 NM-4E(0): rx_ring = 0x0b88c920 (32), tx_ring = 0x0b88cb60 (64)
+Sep 12 09:49:21.503 NM-4E(0): CSR0 = 0x0101
+Sep 12 09:49:21.503 CPU0: IO_FPGA: write to unknown addr 0x1000a, value=0x1, pc=0x60030718 (size=1)
+Sep 12 09:49:21.504 CPU0: IO_FPGA: write to unknown addr 0x1000a, value=0x1, pc=0x600307a0 (size=1)
+Sep 12 09:49:21.504 NM-1FE-TX(1): fetching init block at address 0x0b8b33e0
+Sep 12 09:49:21.504 NM-1FE-TX(1): rx_ring = 0x0b8b3440 (64), tx_ring = 0x0b8b3880 (128)
+Sep 12 09:49:21.504 NM-1FE-TX(1): CSR0 = 0x0101
+Sep 12 09:49:21.504 CPU0: IO_FPGA: write to unknown addr 0x1000a, value=0x1, pc=0x60030718 (size=1)
+Sep 12 09:49:21.504 CPU0: IO_FPGA: write to unknown addr 0x1000a, value=0x1, pc=0x600307a0 (size=1)
+Sep 12 09:49:21.504 NM-1FE-TX(2): fetching init block at address 0x0b902100
+Sep 12 09:49:21.504 NM-1FE-TX(2): rx_ring = 0x0b902160 (64), tx_ring = 0x0b9025a0 (128)
+Sep 12 09:49:21.504 NM-1FE-TX(2): CSR0 = 0x0101
+Sep 12 09:49:21.505 CPU0: IO_FPGA: write to unknown addr 0x1000a, value=0x1, pc=0x60030718 (size=1)
+Sep 12 09:49:21.505 CPU0: IO_FPGA: write to unknown addr 0x1000a, value=0x1, pc=0x600307a0 (size=1)
+Sep 12 09:49:21.505 NM-1FE-TX(3): fetching init block at address 0x0b950e20
+Sep 12 09:49:21.505 NM-1FE-TX(3): rx_ring = 0x0b950e80 (64), tx_ring = 0x0b9512c0 (128)
+Sep 12 09:49:21.505 NM-1FE-TX(3): CSR0 = 0x0101
+Sep 12 09:49:21.528 CPU0: PCI: read request for device 'dec21052' at pc=0x605c80cc: bus=0,device=2,function=0,reg=0x00
+Sep 12 09:49:21.557 CPU0: JIT: partial JIT flush (count=775)
+Sep 12 09:49:21.614 NM-4E(0): fetching init block at address 0x0b818760
+Sep 12 09:49:21.614 NM-4E(0): rx_ring = 0x0b8187c0 (32), tx_ring = 0x0b818a00 (64)
+Sep 12 09:49:21.614 NM-4E(0): CSR0 = 0x0101
+Sep 12 09:49:21.615 NM-4E(0): fetching init block at address 0x0b83f280
+Sep 12 09:49:21.615 NM-4E(0): rx_ring = 0x0b83f2e0 (32), tx_ring = 0x0b83f520 (64)
+Sep 12 09:49:21.615 NM-4E(0): CSR0 = 0x0101
+Sep 12 09:49:21.615 NM-4E(0): fetching init block at address 0x0b865da0
+Sep 12 09:49:21.615 NM-4E(0): rx_ring = 0x0b865e00 (32), tx_ring = 0x0b866040 (64)
+Sep 12 09:49:21.615 NM-4E(0): CSR0 = 0x0101
+Sep 12 09:49:21.615 NM-4E(0): fetching init block at address 0x0b88c8c0
+Sep 12 09:49:21.615 NM-4E(0): rx_ring = 0x0b88c920 (32), tx_ring = 0x0b88cb60 (64)
+Sep 12 09:49:21.615 NM-4E(0): CSR0 = 0x0101
+Sep 12 09:49:21.616 CPU0: IO_FPGA: write to unknown addr 0x1000a, value=0x1, pc=0x60030718 (size=1)
+Sep 12 09:49:21.616 CPU0: IO_FPGA: write to unknown addr 0x1000a, value=0x1, pc=0x600307a0 (size=1)
+Sep 12 09:49:21.616 NM-1FE-TX(1): fetching init block at address 0x0b8b33e0
+Sep 12 09:49:21.616 NM-1FE-TX(1): rx_ring = 0x0b8b3440 (64), tx_ring = 0x0b8b3880 (128)
+Sep 12 09:49:21.616 NM-1FE-TX(1): CSR0 = 0x0101
+Sep 12 09:49:21.617 CPU0: IO_FPGA: write to unknown addr 0x1000a, value=0x1, pc=0x60030718 (size=1)
+Sep 12 09:49:21.617 CPU0: IO_FPGA: write to unknown addr 0x1000a, value=0x1, pc=0x600307a0 (size=1)
+Sep 12 09:49:21.617 NM-1FE-TX(2): fetching init block at address 0x0b902100
+Sep 12 09:49:21.617 NM-1FE-TX(2): rx_ring = 0x0b902160 (64), tx_ring = 0x0b9025a0 (128)
+Sep 12 09:49:21.617 NM-1FE-TX(2): CSR0 = 0x0101
+Sep 12 09:49:21.617 CPU0: IO_FPGA: write to unknown addr 0x1000a, value=0x1, pc=0x60030718 (size=1)
+Sep 12 09:49:21.617 CPU0: IO_FPGA: write to unknown addr 0x1000a, value=0x1, pc=0x600307a0 (size=1)
+Sep 12 09:49:21.617 NM-1FE-TX(3): fetching init block at address 0x0b950e20
+Sep 12 09:49:21.617 NM-1FE-TX(3): rx_ring = 0x0b950e80 (64), tx_ring = 0x0b9512c0 (128)
+Sep 12 09:49:21.617 NM-1FE-TX(3): CSR0 = 0x0101
+Sep 12 09:49:21.627 NM-4E(0): fetching init block at address 0x0b818760
+Sep 12 09:49:21.627 NM-4E(0): rx_ring = 0x0b8187c0 (32), tx_ring = 0x0b818a00 (64)
+Sep 12 09:49:21.627 NM-4E(0): CSR0 = 0x0101
+Sep 12 09:49:21.628 NM-4E(0): fetching init block at address 0x0b83f280
+Sep 12 09:49:21.628 NM-4E(0): rx_ring = 0x0b83f2e0 (32), tx_ring = 0x0b83f520 (64)
+Sep 12 09:49:21.628 NM-4E(0): CSR0 = 0x0101
+Sep 12 09:49:21.628 NM-4E(0): fetching init block at address 0x0b865da0
+Sep 12 09:49:21.628 NM-4E(0): rx_ring = 0x0b865e00 (32), tx_ring = 0x0b866040 (64)
+Sep 12 09:49:21.628 NM-4E(0): CSR0 = 0x0101
+Sep 12 09:49:21.629 NM-4E(0): fetching init block at address 0x0b88c8c0
+Sep 12 09:49:21.629 NM-4E(0): rx_ring = 0x0b88c920 (32), tx_ring = 0x0b88cb60 (64)
+Sep 12 09:49:21.629 NM-4E(0): CSR0 = 0x0101
+Sep 12 09:49:21.629 CPU0: IO_FPGA: write to unknown addr 0x1000a, value=0x1, pc=0x60030718 (size=1)
+Sep 12 09:49:21.629 CPU0: IO_FPGA: write to unknown addr 0x1000a, value=0x1, pc=0x600307a0 (size=1)
+Sep 12 09:49:21.629 NM-1FE-TX(1): fetching init block at address 0x0b8b33e0
+Sep 12 09:49:21.629 NM-1FE-TX(1): rx_ring = 0x0b8b3440 (64), tx_ring = 0x0b8b3880 (128)
+Sep 12 09:49:21.629 NM-1FE-TX(1): CSR0 = 0x0101
+Sep 12 09:49:21.629 CPU0: IO_FPGA: write to unknown addr 0x1000a, value=0x1, pc=0x60030718 (size=1)
+Sep 12 09:49:21.630 CPU0: IO_FPGA: write to unknown addr 0x1000a, value=0x1, pc=0x600307a0 (size=1)
+Sep 12 09:49:21.630 NM-1FE-TX(2): fetching init block at address 0x0b902100
+Sep 12 09:49:21.630 NM-1FE-TX(2): rx_ring = 0x0b902160 (64), tx_ring = 0x0b9025a0 (128)
+Sep 12 09:49:21.630 NM-1FE-TX(2): CSR0 = 0x0101
+Sep 12 09:49:21.630 CPU0: IO_FPGA: write to unknown addr 0x1000a, value=0x1, pc=0x60030718 (size=1)
+Sep 12 09:49:21.630 CPU0: IO_FPGA: write to unknown addr 0x1000a, value=0x1, pc=0x600307a0 (size=1)
+Sep 12 09:49:21.630 NM-1FE-TX(3): fetching init block at address 0x0b950e20
+Sep 12 09:49:21.630 NM-1FE-TX(3): rx_ring = 0x0b950e80 (64), tx_ring = 0x0b9512c0 (128)
+Sep 12 09:49:21.630 NM-1FE-TX(3): CSR0 = 0x0101
+Sep 12 09:49:21.631 NM-4E(0): fetching init block at address 0x0b818760
+Sep 12 09:49:21.631 NM-4E(0): rx_ring = 0x0b8187c0 (32), tx_ring = 0x0b818a00 (64)
+Sep 12 09:49:21.631 NM-4E(0): CSR0 = 0x0101
+Sep 12 09:49:21.632 NM-4E(0): fetching init block at address 0x0b83f280
+Sep 12 09:49:21.632 NM-4E(0): rx_ring = 0x0b83f2e0 (32), tx_ring = 0x0b83f520 (64)
+Sep 12 09:49:21.632 NM-4E(0): CSR0 = 0x0101
+Sep 12 09:49:21.632 NM-4E(0): fetching init block at address 0x0b865da0
+Sep 12 09:49:21.632 NM-4E(0): rx_ring = 0x0b865e00 (32), tx_ring = 0x0b866040 (64)
+Sep 12 09:49:21.632 NM-4E(0): CSR0 = 0x0101
+Sep 12 09:49:21.632 NM-4E(0): fetching init block at address 0x0b88c8c0
+Sep 12 09:49:21.632 NM-4E(0): rx_ring = 0x0b88c920 (32), tx_ring = 0x0b88cb60 (64)
+Sep 12 09:49:21.632 NM-4E(0): CSR0 = 0x0101
+Sep 12 09:49:21.633 CPU0: IO_FPGA: write to unknown addr 0x1000a, value=0x1, pc=0x60030718 (size=1)
+Sep 12 09:49:21.633 CPU0: IO_FPGA: write to unknown addr 0x1000a, value=0x1, pc=0x600307a0 (size=1)
+Sep 12 09:49:21.633 NM-1FE-TX(1): fetching init block at address 0x0b8b33e0
+Sep 12 09:49:21.633 NM-1FE-TX(1): rx_ring = 0x0b8b3440 (64), tx_ring = 0x0b8b3880 (128)
+Sep 12 09:49:21.633 NM-1FE-TX(1): CSR0 = 0x0101
+Sep 12 09:49:21.633 CPU0: IO_FPGA: write to unknown addr 0x1000a, value=0x1, pc=0x60030718 (size=1)
+Sep 12 09:49:21.633 CPU0: IO_FPGA: write to unknown addr 0x1000a, value=0x1, pc=0x600307a0 (size=1)
+Sep 12 09:49:21.633 NM-1FE-TX(2): fetching init block at address 0x0b902100
+Sep 12 09:49:21.633 NM-1FE-TX(2): rx_ring = 0x0b902160 (64), tx_ring = 0x0b9025a0 (128)
+Sep 12 09:49:21.633 NM-1FE-TX(2): CSR0 = 0x0101
+Sep 12 09:49:21.634 CPU0: IO_FPGA: write to unknown addr 0x1000a, value=0x1, pc=0x60030718 (size=1)
+Sep 12 09:49:21.634 CPU0: IO_FPGA: write to unknown addr 0x1000a, value=0x1, pc=0x600307a0 (size=1)
+Sep 12 09:49:21.634 NM-1FE-TX(3): fetching init block at address 0x0b950e20
+Sep 12 09:49:21.634 NM-1FE-TX(3): rx_ring = 0x0b950e80 (64), tx_ring = 0x0b9512c0 (128)
+Sep 12 09:49:21.634 NM-1FE-TX(3): CSR0 = 0x0101
+Sep 12 09:49:21.900 NM-4E(0): fetching init block at address 0x0b818760
+Sep 12 09:49:21.900 NM-4E(0): rx_ring = 0x0b8187c0 (32), tx_ring = 0x0b818a00 (64)
+Sep 12 09:49:21.900 NM-4E(0): CSR0 = 0x0101
+Sep 12 09:49:21.900 NM-4E(0): fetching init block at address 0x0b83f280
+Sep 12 09:49:21.900 NM-4E(0): rx_ring = 0x0b83f2e0 (32), tx_ring = 0x0b83f520 (64)
+Sep 12 09:49:21.900 NM-4E(0): CSR0 = 0x0101
+Sep 12 09:49:21.901 NM-4E(0): fetching init block at address 0x0b865da0
+Sep 12 09:49:21.901 NM-4E(0): rx_ring = 0x0b865e00 (32), tx_ring = 0x0b866040 (64)
+Sep 12 09:49:21.901 NM-4E(0): CSR0 = 0x0101
+Sep 12 09:49:21.901 NM-4E(0): fetching init block at address 0x0b88c8c0
+Sep 12 09:49:21.901 NM-4E(0): rx_ring = 0x0b88c920 (32), tx_ring = 0x0b88cb60 (64)
+Sep 12 09:49:21.901 NM-4E(0): CSR0 = 0x0101
+Sep 12 09:49:21.902 CPU0: IO_FPGA: write to unknown addr 0x1000a, value=0x1, pc=0x60030718 (size=1)
+Sep 12 09:49:21.902 CPU0: IO_FPGA: write to unknown addr 0x1000a, value=0x1, pc=0x600307a0 (size=1)
+Sep 12 09:49:21.902 NM-1FE-TX(1): fetching init block at address 0x0b8b33e0
+Sep 12 09:49:21.902 NM-1FE-TX(1): rx_ring = 0x0b8b3440 (64), tx_ring = 0x0b8b3880 (128)
+Sep 12 09:49:21.902 NM-1FE-TX(1): CSR0 = 0x0101
+Sep 12 09:49:21.902 CPU0: IO_FPGA: write to unknown addr 0x1000a, value=0x1, pc=0x60030718 (size=1)
+Sep 12 09:49:21.902 CPU0: IO_FPGA: write to unknown addr 0x1000a, value=0x1, pc=0x600307a0 (size=1)
+Sep 12 09:49:21.902 NM-1FE-TX(2): fetching init block at address 0x0b902100
+Sep 12 09:49:21.902 NM-1FE-TX(2): rx_ring = 0x0b902160 (64), tx_ring = 0x0b9025a0 (128)
+Sep 12 09:49:21.902 NM-1FE-TX(2): CSR0 = 0x0101
+Sep 12 09:49:21.903 CPU0: IO_FPGA: write to unknown addr 0x1000a, value=0x1, pc=0x60030718 (size=1)
+Sep 12 09:49:21.903 CPU0: IO_FPGA: write to unknown addr 0x1000a, value=0x1, pc=0x600307a0 (size=1)
+Sep 12 09:49:21.903 NM-1FE-TX(3): fetching init block at address 0x0b950e20
+Sep 12 09:49:21.903 NM-1FE-TX(3): rx_ring = 0x0b950e80 (64), tx_ring = 0x0b9512c0 (128)
+Sep 12 09:49:21.903 NM-1FE-TX(3): CSR0 = 0x0101
+Sep 12 09:49:22.022 CPU0: JIT: flushing data structures (compiled pages=932)
+Sep 12 09:49:22.079 CPU0: PCI: read request for device 'dec21052' at pc=0x605c80cc: bus=0,device=2,function=0,reg=0x00
+Sep 12 09:49:22.080 CPU0: PCI: read request for device 'dec21052' at pc=0x605c80cc: bus=0,device=2,function=0,reg=0x00
+Sep 12 09:49:22.366 CPU0: JIT: partial JIT flush (count=826)
+Sep 12 09:49:22.927 ROM: trying to read bootvar 'PMDEBUG'
+Sep 12 09:49:22.931 ROM: trying to read bootvar 'MONDEBUG'
+Sep 12 09:49:23.029 ROM: unhandled syscall 0x0000001a at pc=0x60508a38 (a1=0x642686c4,a2=0x63cf0000,a3=0x0082f60c)
+Sep 12 09:49:23.029 ROM: unhandled syscall 0x00000009 at pc=0x60508a38 (a1=0x00000000,a2=0x63cf0000,a3=0x0082f60c)
+Sep 12 09:49:23.031 CPU0: PCI: read request for device 'dec21052' at pc=0x605c80cc: bus=0,device=2,function=0,reg=0x00
+Sep 12 09:49:23.033 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:23.034 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:23.034 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:23.034 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:23.034 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:23.034 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:23.034 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:23.034 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:23.034 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:23.034 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:23.034 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:23.034 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:23.034 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:23.034 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:23.034 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:23.034 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:23.035 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:23.035 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:23.035 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:23.035 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:23.035 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:23.035 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:23.035 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:23.035 CPU0: PCI: read request for device 'clpd6729' at pc=0x605c80cc: bus=0,device=20,function=0,reg=0x00
+Sep 12 09:49:23.109 CPU0: JIT: flushing data structures (compiled pages=945)
+Sep 12 09:49:23.724 NM-4E(0): fetching init block at address 0x0b818760
+Sep 12 09:49:23.724 NM-4E(0): rx_ring = 0x0b8187c0 (32), tx_ring = 0x0b818a00 (64)
+Sep 12 09:49:23.724 NM-4E(0): CSR0 = 0x0101
+Sep 12 09:49:23.764 NM-4E(0): fetching init block at address 0x0b83f280
+Sep 12 09:49:23.764 NM-4E(0): rx_ring = 0x0b83f2e0 (32), tx_ring = 0x0b83f520 (64)
+Sep 12 09:49:23.764 NM-4E(0): CSR0 = 0x0101
+Sep 12 09:49:23.767 NM-4E(0): fetching init block at address 0x0b865da0
+Sep 12 09:49:23.767 NM-4E(0): rx_ring = 0x0b865e00 (32), tx_ring = 0x0b866040 (64)
+Sep 12 09:49:23.767 NM-4E(0): CSR0 = 0x0101
+Sep 12 09:49:23.771 NM-4E(0): fetching init block at address 0x0b88c8c0
+Sep 12 09:49:23.771 NM-4E(0): rx_ring = 0x0b88c920 (32), tx_ring = 0x0b88cb60 (64)
+Sep 12 09:49:23.771 NM-4E(0): CSR0 = 0x0101
+Sep 12 09:49:23.787 CPU0: IO_FPGA: write to unknown addr 0x1000a, value=0x1, pc=0x60030718 (size=1)
+Sep 12 09:49:23.787 CPU0: IO_FPGA: write to unknown addr 0x1000a, value=0x1, pc=0x600307a0 (size=1)
+Sep 12 09:49:23.787 NM-1FE-TX(1): fetching init block at address 0x0b8b33e0
+Sep 12 09:49:23.787 NM-1FE-TX(1): rx_ring = 0x0b8b3440 (64), tx_ring = 0x0b8b3880 (128)
+Sep 12 09:49:23.787 NM-1FE-TX(1): CSR0 = 0x0101
+Sep 12 09:49:23.817 CPU0: IO_FPGA: write to unknown addr 0x1000a, value=0x1, pc=0x60030718 (size=1)
+Sep 12 09:49:23.817 CPU0: IO_FPGA: write to unknown addr 0x1000a, value=0x1, pc=0x600307a0 (size=1)
+Sep 12 09:49:23.817 NM-1FE-TX(2): fetching init block at address 0x0b902100
+Sep 12 09:49:23.817 NM-1FE-TX(2): rx_ring = 0x0b902160 (64), tx_ring = 0x0b9025a0 (128)
+Sep 12 09:49:23.817 NM-1FE-TX(2): CSR0 = 0x0101
+Sep 12 09:49:23.820 CPU0: IO_FPGA: write to unknown addr 0x1000a, value=0x1, pc=0x60030718 (size=1)
+Sep 12 09:49:23.820 CPU0: IO_FPGA: write to unknown addr 0x1000a, value=0x1, pc=0x600307a0 (size=1)
+Sep 12 09:49:23.820 NM-1FE-TX(3): fetching init block at address 0x0b950e20
+Sep 12 09:49:23.820 NM-1FE-TX(3): rx_ring = 0x0b950e80 (64), tx_ring = 0x0b9512c0 (128)
+Sep 12 09:49:23.820 NM-1FE-TX(3): CSR0 = 0x0101
+Sep 12 09:49:23.963 CPU0: JIT: partial JIT flush (count=769)
+Sep 12 09:49:24.030 ROM: trying to read bootvar 'ROM_PERSISTENT_UTC'
+Sep 12 09:49:24.166 CPU0: PCI: read request for device 'dec21052' at pc=0x605c80cc: bus=0,device=2,function=0,reg=0x00
+Sep 12 09:49:24.167 CPU0: PCI: read request for device 'dec21052' at pc=0x605c80cc: bus=0,device=2,function=0,reg=0x00
+Sep 12 09:49:24.204 ROM: trying to set bootvar 'BSI=0'
+Sep 12 09:49:24.209 ROM: trying to read bootvar 'RET_2_RCALTS'
+Sep 12 09:49:24.209 ROM: trying to set bootvar 'RET_2_RCALTS='
+Sep 12 09:49:24.227 ROM: trying to read bootvar 'RANDOM_NUM'
+Sep 12 09:53:07.618 ROM: trying to set bootvar 'RANDOM_NUM=213982841'
+Sep 12 10:29:56.470 C3600_STOP: stopping simulation.
+Sep 12 10:29:56.470 CPU0: CPU_STATE: Halting CPU (old state=0)...
+Sep 12 10:29:56.563 VM: shutdown procedure engaged.
+Sep 12 10:29:56.563 VM_OBJECT: Shutdown of object "clpd6729"
+Sep 12 10:29:56.563 VM_OBJECT: Shutdown of object "ns16552"
+Sep 12 10:29:56.563 DEVICE: Removal of device ns16552, fd=-1, host_addr=0x0, flags=0
+Sep 12 10:29:56.563 VM_OBJECT: Shutdown of object "rom"
+Sep 12 10:29:56.563 DEVICE: Removal of device rom, fd=-1, host_addr=0x0, flags=2
+Sep 12 10:29:56.563 VM_OBJECT: Shutdown of object "ram"
+Sep 12 10:29:56.563 DEVICE: Removal of device ram, fd=16, host_addr=0xee190000, flags=2
+Sep 12 10:29:56.563 MMAP: unmapping of device 'ram', fd=16, host_addr=0xee190000, len=0xc000000
+Sep 12 10:29:56.586 VM_OBJECT: Shutdown of object "gt64010"
+Sep 12 10:29:56.586 DEVICE: Removal of device gt64010, fd=-1, host_addr=0x0, flags=0
+Sep 12 10:29:56.586 VM_OBJECT: Shutdown of object "io_fpga"
+Sep 12 10:29:56.586 DEVICE: Removal of device io_fpga, fd=-1, host_addr=0x0, flags=0
+Sep 12 10:29:56.586 VM_OBJECT: Shutdown of object "zero"
+Sep 12 10:29:56.586 DEVICE: Removal of device zero, fd=-1, host_addr=0x0, flags=0
+Sep 12 10:29:56.586 VM_OBJECT: Shutdown of object "nvram"
+Sep 12 10:29:56.586 DEVICE: Removal of device nvram, fd=15, host_addr=0xfa190000, flags=9
+Sep 12 10:29:56.586 MMAP: unmapping of device 'nvram', fd=15, host_addr=0xfa190000, len=0x40000
+Sep 12 10:29:56.588 VM_OBJECT: Shutdown of object "bootflash"
+Sep 12 10:29:56.588 DEVICE: Removal of device bootflash, fd=14, host_addr=0xfa1d0000, flags=1
+Sep 12 10:29:56.588 MMAP: unmapping of device 'bootflash', fd=14, host_addr=0xfa1d0000, len=0x800000
+Sep 12 10:29:56.588 VM_OBJECT: Shutdown of object "remote_ctrl"
+Sep 12 10:29:56.588 DEVICE: Removal of device remote_ctrl, fd=-1, host_addr=0x0, flags=0
+Sep 12 10:29:56.588 VM: removing PCI busses.
+Sep 12 10:29:56.588 DEVICE: Removal of device pci_io, fd=-1, host_addr=0x0, flags=0
+Sep 12 10:29:56.588 VM: deleting VTTY.
+Sep 12 10:29:56.588 VTTY: Console port: closing FD 13
+Sep 12 10:29:56.589 VM: deleting system CPUs.
+Sep 12 10:29:56.589 CPU0: CPU_STATE: Halting CPU (old state=1)...
+Sep 12 10:29:56.614 VM: shutdown procedure completed.

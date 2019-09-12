@@ -1,0 +1,49 @@
+Sep 12 08:39:45.760 HYPERVISOR: Release 0.2.17-x86/Windows (tag 2017072410)
+Sep 12 08:39:45.763 HYPERVISOR: Started on IP = 192.168.56.1, TCP port = 53768.
+Sep 12 08:39:46.203 HYPERVISOR: exec_cmd: hypervisor version 
+Sep 12 08:39:46.204 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\javie\OneDrive - Instituto Politecnico Nacional\Escom\Administracion de servicios en red\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips 
+Sep 12 08:39:46.225 GENERAL: working_dir=C:\Users\javie\OneDrive - Instituto Politecnico Nacional\Escom\Administracion de servicios en red\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips
+Sep 12 08:39:46.227 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\javie\OneDrive - Instituto Politecnico Nacional\Escom\Administracion de servicios en red\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips\86045c5b-66eb-411c-bfae-571d36982878 
+Sep 12 08:39:46.227 GENERAL: working_dir=C:\Users\javie\OneDrive - Instituto Politecnico Nacional\Escom\Administracion de servicios en red\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips\86045c5b-66eb-411c-bfae-571d36982878
+Sep 12 08:39:46.228 HYPERVISOR: exec_cmd: vm create R1 1 c3600 
+Sep 12 08:39:46.230 VM: VM R1 created.
+Sep 12 08:39:46.232 HYPERVISOR: exec_cmd: vm set_con_tcp_port R1 5000 
+Sep 12 08:39:46.232 HYPERVISOR: exec_cmd: c3600 get_mac_addr R1 
+Sep 12 08:39:46.233 HYPERVISOR: exec_cmd: vm set_exec_area R1 64 
+Sep 12 08:39:46.234 HYPERVISOR: exec_cmd: vm get_status R1 
+Sep 12 08:39:46.236 HYPERVISOR: exec_cmd: vm set_idle_pc R1 0x6050b114 
+Sep 12 08:39:46.245 HYPERVISOR: exec_cmd: vm set_ios R1 C:/Users/javie/GNS3/images/IOS/c3640-a3js-mz.124-25d.image 
+Sep 12 08:39:46.246 HYPERVISOR: exec_cmd: c3600 set_mac_addr R1 cc01.17ac.0000 
+Sep 12 08:39:46.246 HYPERVISOR: exec_cmd: vm set_nvram R1 256 
+Sep 12 08:39:46.247 HYPERVISOR: exec_cmd: vm set_ram R1 192 
+Sep 12 08:39:46.248 HYPERVISOR: exec_cmd: vm get_status R1 
+Sep 12 08:39:46.249 HYPERVISOR: exec_cmd: vm slot_add_binding R1 0 0 NM-4E 
+Sep 12 08:39:46.250 HYPERVISOR: exec_cmd: vm get_status R1 
+Sep 12 08:39:46.250 HYPERVISOR: exec_cmd: vm slot_add_binding R1 1 0 NM-1FE-TX 
+Sep 12 08:39:46.251 HYPERVISOR: exec_cmd: vm get_status R1 
+Sep 12 08:39:46.251 HYPERVISOR: exec_cmd: vm slot_add_binding R1 2 0 NM-1FE-TX 
+Sep 12 08:39:46.252 HYPERVISOR: exec_cmd: vm get_status R1 
+Sep 12 08:39:46.253 HYPERVISOR: exec_cmd: vm slot_add_binding R1 3 0 NM-1FE-TX 
+Sep 12 08:39:55.214 HYPERVISOR: exec_cmd: nio create_udp udp-296c0102-90be-4f4c-adf2-0900ed2036fd 10002 127.0.0.1 10003 
+Sep 12 08:39:55.510 HYPERVISOR: exec_cmd: vm slot_add_nio_binding R1 1 0 udp-296c0102-90be-4f4c-adf2-0900ed2036fd 
+Sep 12 08:39:55.511 HYPERVISOR: exec_cmd: vm get_status R1 
+Sep 12 08:39:56.659 HYPERVISOR: exec_cmd: nio create_udp udp-bdef1881-bd49-4325-975e-0882d8d19443 10014 127.0.0.1 10015 
+Sep 12 08:39:56.664 HYPERVISOR: exec_cmd: vm slot_add_nio_binding R1 2 0 udp-bdef1881-bd49-4325-975e-0882d8d19443 
+Sep 12 08:39:56.665 HYPERVISOR: exec_cmd: vm get_status R1 
+Sep 12 08:39:56.880 HYPERVISOR: exec_cmd: nio create_udp udp-51ed8fa2-74db-481b-bd9c-ef4c3835c923 10020 127.0.0.1 10021 
+Sep 12 08:39:56.884 HYPERVISOR: exec_cmd: vm slot_add_nio_binding R1 0 0 udp-51ed8fa2-74db-481b-bd9c-ef4c3835c923 
+Sep 12 08:39:56.885 HYPERVISOR: exec_cmd: vm get_status R1 
+Sep 12 09:49:19.778 HYPERVISOR: exec_cmd: vm create Ghost 0 c3600 
+Sep 12 09:49:19.780 VM: VM Ghost created.
+Sep 12 09:49:19.781 HYPERVISOR: exec_cmd: vm set_ios Ghost C:/Users/javie/GNS3/images/IOS/c3640-a3js-mz.124-25d.image 
+Sep 12 09:49:19.781 HYPERVISOR: exec_cmd: vm set_ghost_status Ghost 1 
+Sep 12 09:49:19.781 HYPERVISOR: exec_cmd: vm set_ghost_file Ghost 'C:\Users\javie\OneDrive - Instituto Politecnico Nacional\Escom\Administracion de servicios en red\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips\c3640-a3js-mz.124-25d.image-192.ghost' 
+Sep 12 09:49:19.782 HYPERVISOR: exec_cmd: vm get_status R1 
+Sep 12 09:49:19.783 HYPERVISOR: exec_cmd: vm set_config R1 configs\i1_startup-config.cfg 
+Sep 12 09:49:19.783 HYPERVISOR: exec_cmd: vm start R1 
+Sep 12 09:49:20.381 HYPERVISOR: exec_cmd: vm create Ghost 0 c3600 
+Sep 12 09:49:20.383 HYPERVISOR: exec_cmd: vm get_status R1 
+Sep 12 10:29:56.469 HYPERVISOR: exec_cmd: vm get_status R1 
+Sep 12 10:29:56.470 HYPERVISOR: exec_cmd: vm stop R1 
+Sep 12 10:29:56.617 VM: VM R1 shutdown.
+Sep 12 10:29:56.619 HYPERVISOR: exec_cmd: vm extract_config R1 

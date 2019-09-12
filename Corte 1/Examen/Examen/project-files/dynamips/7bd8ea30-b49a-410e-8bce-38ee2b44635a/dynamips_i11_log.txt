@@ -1,0 +1,26 @@
+Sep 12 08:36:22.638 HYPERVISOR: Release 0.2.17-x86/Windows (tag 2017072410)
+Sep 12 08:36:22.641 HYPERVISOR: Started on IP = 192.168.56.1, TCP port = 53327.
+Sep 12 08:36:23.086 HYPERVISOR: exec_cmd: hypervisor version 
+Sep 12 08:36:23.088 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\javie\OneDrive - Instituto Politecnico Nacional\Escom\Administracion de servicios en red\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips 
+Sep 12 08:36:23.089 GENERAL: working_dir=C:\Users\javie\OneDrive - Instituto Politecnico Nacional\Escom\Administracion de servicios en red\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips
+Sep 12 08:36:23.099 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\javie\OneDrive - Instituto Politecnico Nacional\Escom\Administracion de servicios en red\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips\7bd8ea30-b49a-410e-8bce-38ee2b44635a 
+Sep 12 08:36:23.100 GENERAL: working_dir=C:\Users\javie\OneDrive - Instituto Politecnico Nacional\Escom\Administracion de servicios en red\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips\7bd8ea30-b49a-410e-8bce-38ee2b44635a
+Sep 12 08:36:23.101 HYPERVISOR: exec_cmd: vm create SW32 11 c3600 
+Sep 12 08:36:23.110 VM: VM SW32 created.
+Sep 12 08:36:23.112 HYPERVISOR: exec_cmd: vm set_con_tcp_port SW32 5010 
+Sep 12 08:36:23.113 HYPERVISOR: exec_cmd: c3600 get_mac_addr SW32 
+Sep 12 08:36:23.115 HYPERVISOR: exec_cmd: vm set_exec_area SW32 64 
+Sep 12 08:36:23.116 HYPERVISOR: exec_cmd: vm get_status SW32 
+Sep 12 08:36:23.117 HYPERVISOR: exec_cmd: vm set_idle_pc SW32 0x6050b114 
+Sep 12 08:36:23.121 HYPERVISOR: exec_cmd: vm set_ios SW32 C:/Users/javie/GNS3/images/IOS/c3640-a3js-mz.124-25d.image 
+Sep 12 08:36:23.123 HYPERVISOR: exec_cmd: c3600 set_mac_addr SW32 cc0b.2334.0000 
+Sep 12 08:36:23.125 HYPERVISOR: exec_cmd: vm set_nvram SW32 256 
+Sep 12 08:36:23.126 HYPERVISOR: exec_cmd: vm set_ram SW32 192 
+Sep 12 08:36:23.128 HYPERVISOR: exec_cmd: vm get_status SW32 
+Sep 12 08:36:23.129 HYPERVISOR: exec_cmd: vm slot_add_binding SW32 0 0 NM-16ESW 
+Sep 12 08:36:32.003 HYPERVISOR: exec_cmd: nio create_udp udp-c764ae0d-025a-4edf-987c-1155c1a67ddb 10074 127.0.0.1 10075 
+Sep 12 08:36:32.301 HYPERVISOR: exec_cmd: vm slot_add_nio_binding SW32 0 0 udp-c764ae0d-025a-4edf-987c-1155c1a67ddb 
+Sep 12 08:36:32.302 HYPERVISOR: exec_cmd: vm get_status SW32 
+Sep 12 08:36:33.529 HYPERVISOR: exec_cmd: nio create_udp udp-d7084e29-a8a5-4370-9f4f-2377df916d62 10088 127.0.0.1 10089 
+Sep 12 08:36:33.539 HYPERVISOR: exec_cmd: vm slot_add_nio_binding SW32 0 1 udp-d7084e29-a8a5-4370-9f4f-2377df916d62 
+Sep 12 08:36:33.540 HYPERVISOR: exec_cmd: vm get_status SW32 

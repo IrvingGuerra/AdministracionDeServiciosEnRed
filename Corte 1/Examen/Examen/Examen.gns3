@@ -171,25 +171,25 @@
             {
                 "drawing_id": "334a1cc9-7c82-4728-b8d9-851fd415cd3a",
                 "rotation": 0,
-                "svg": "<svg height=\"27\" width=\"94\"><text fill=\"#0055ff\" fill-opacity=\"1.0\" font-family=\"MS Shell Dlg 2\" font-size=\"12.0\" font-weight=\"bold\">A.128 / 27</text></svg>",
-                "x": 409,
-                "y": 70,
+                "svg": "<svg height=\"23\" width=\"72\"><text fill=\"#0055ff\" fill-opacity=\"1.0\" font-family=\"MS Shell Dlg 2\" font-size=\"12.0\" font-weight=\"bold\">A.128 / 27</text></svg>",
+                "x": 625,
+                "y": 9,
                 "z": 1
             },
             {
                 "drawing_id": "a7c8e2d7-ff1f-4964-857c-72ca4a580328",
                 "rotation": 0,
-                "svg": "<svg height=\"27\" width=\"94\"><text fill=\"#0055ff\" fill-opacity=\"1.0\" font-family=\"MS Shell Dlg 2\" font-size=\"12.0\" font-weight=\"bold\">A.160 / 27</text></svg>",
-                "x": 433,
-                "y": 170,
+                "svg": "<svg height=\"23\" width=\"72\"><text fill=\"#0055ff\" fill-opacity=\"1.0\" font-family=\"MS Shell Dlg 2\" font-size=\"12.0\" font-weight=\"bold\">A.160 / 27</text></svg>",
+                "x": 624,
+                "y": 163,
                 "z": 1
             },
             {
                 "drawing_id": "8c620e0c-47ba-422f-bd07-f73685a832c5",
                 "rotation": 0,
-                "svg": "<svg height=\"27\" width=\"94\"><text fill=\"#0055ff\" fill-opacity=\"1.0\" font-family=\"MS Shell Dlg 2\" font-size=\"12.0\" font-weight=\"bold\">A.192 / 26</text></svg>",
-                "x": 398,
-                "y": 313,
+                "svg": "<svg height=\"23\" width=\"72\"><text fill=\"#0055ff\" fill-opacity=\"1.0\" font-family=\"MS Shell Dlg 2\" font-size=\"12.0\" font-weight=\"bold\">A.192 / 26</text></svg>",
+                "x": 622,
+                "y": 320,
                 "z": 1
             },
             {
@@ -244,8 +244,192 @@
                 "drawing_id": "a9c8de2b-7cbd-471d-b824-a149fe399962",
                 "rotation": 0,
                 "svg": "<svg height=\"21\" width=\"23\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">.13</text></svg>",
-                "x": -32,
-                "y": -216,
+                "x": -69,
+                "y": -218,
+                "z": 1
+            },
+            {
+                "drawing_id": "af2de357-bac7-4fc3-bc10-46af19233a6c",
+                "rotation": 0,
+                "svg": "<svg height=\"21\" width=\"23\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">.14</text></svg>",
+                "x": -63,
+                "y": -306,
+                "z": 1
+            },
+            {
+                "drawing_id": "3adc2ddd-7266-42bf-a46a-e95d6ccc4c2f",
+                "rotation": 0,
+                "svg": "<svg height=\"21\" width=\"23\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">.21</text></svg>",
+                "x": 162,
+                "y": 73,
+                "z": 1
+            },
+            {
+                "drawing_id": "e7ab6d4c-fa64-44e2-a787-6fde275b7098",
+                "rotation": 0,
+                "svg": "<svg height=\"21\" width=\"23\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">.22</text></svg>",
+                "x": 313,
+                "y": 161,
+                "z": 1
+            },
+            {
+                "drawing_id": "e760aa1b-c77a-47e0-a466-ae06950008e3",
+                "rotation": 0,
+                "svg": "<svg height=\"21\" width=\"23\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">.17</text></svg>",
+                "x": -264,
+                "y": 85,
+                "z": 1
+            },
+            {
+                "drawing_id": "c26fbe77-3bdf-4748-9e4a-cb76e06d657d",
+                "rotation": 0,
+                "svg": "<svg height=\"21\" width=\"23\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">.18</text></svg>",
+                "x": -395,
+                "y": 174,
+                "z": 1
+            },
+            {
+                "drawing_id": "f6d1d10a-a751-4b67-9075-2df5cc90ad54",
+                "rotation": 0,
+                "svg": "<svg height=\"21\" width=\"23\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">.30</text></svg>",
+                "x": 33,
+                "y": -395,
+                "z": 1
+            },
+            {
+                "drawing_id": "38a1263c-e44d-4902-95af-b091925bda19",
+                "rotation": 0,
+                "svg": "<svg height=\"21\" width=\"23\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">.38</text></svg>",
+                "x": 20,
+                "y": -328,
+                "z": 1
+            },
+            {
+                "drawing_id": "161da4f7-4210-4a9a-a7eb-3eef38959723",
+                "rotation": 0,
+                "svg": "<svg height=\"21\" width=\"23\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">.46</text></svg>",
+                "x": -135,
+                "y": -400,
+                "z": 1
+            },
+            {
+                "drawing_id": "bfd80b70-b554-4b30-b56a-a865e27a2184",
+                "rotation": 0,
+                "svg": "<svg height=\"21\" width=\"23\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">.62</text></svg>",
+                "x": -137,
+                "y": -326,
+                "z": 1
+            },
+            {
+                "drawing_id": "40a27b62-dce0-4d5c-b32c-f47863904da4",
+                "rotation": 0,
+                "svg": "<svg height=\"21\" width=\"23\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">.26</text></svg>",
+                "x": 338,
+                "y": -426,
+                "z": 1
+            },
+            {
+                "drawing_id": "9cfa0327-82c0-497b-b0d2-5d2d518e9c5f",
+                "rotation": 0,
+                "svg": "<svg height=\"21\" width=\"23\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">.34</text></svg>",
+                "x": 342,
+                "y": -303,
+                "z": 1
+            },
+            {
+                "drawing_id": "7cd04398-1273-46ff-ad8e-aeb03bf6ff3a",
+                "rotation": 0,
+                "svg": "<svg height=\"21\" width=\"23\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">.42</text></svg>",
+                "x": -426,
+                "y": -363,
+                "z": 1
+            },
+            {
+                "drawing_id": "60209de7-ef40-4c10-9cbc-10ceebfa39d7",
+                "rotation": 0,
+                "svg": "<svg height=\"21\" width=\"23\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">.50</text></svg>",
+                "x": -431,
+                "y": -239,
+                "z": 1
+            },
+            {
+                "drawing_id": "d1260e65-fe9e-404a-a479-17abe24317e1",
+                "rotation": 0,
+                "svg": "<svg height=\"21\" width=\"23\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">.66</text></svg>",
+                "x": -713,
+                "y": 133,
+                "z": 1
+            },
+            {
+                "drawing_id": "a6bcec98-f846-4756-b5cb-c60e159f7dc1",
+                "rotation": 0,
+                "svg": "<svg height=\"21\" width=\"23\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">.94</text></svg>",
+                "x": -485,
+                "y": 186,
+                "z": 1
+            },
+            {
+                "drawing_id": "ba3e7782-3ee8-49c7-8d7e-18f6470e1db6",
+                "rotation": 0,
+                "svg": "<svg height=\"21\" width=\"23\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">.98</text></svg>",
+                "x": -709,
+                "y": 366,
+                "z": 1
+            },
+            {
+                "drawing_id": "7bce60fb-f9a0-4c02-bf3e-adfe4dbfc8ed",
+                "rotation": 0,
+                "svg": "<svg height=\"21\" width=\"30\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">.126</text></svg>",
+                "x": -416,
+                "y": 263,
+                "z": 1
+            },
+            {
+                "drawing_id": "375908af-1380-4e35-b8bc-30880811b51b",
+                "rotation": 0,
+                "svg": "<svg height=\"21\" width=\"30\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">.120</text></svg>",
+                "x": 796,
+                "y": 38,
+                "z": 1
+            },
+            {
+                "drawing_id": "18823b6a-d6ea-4f2f-bea2-d4b6fc50d793",
+                "rotation": 0,
+                "svg": "<svg height=\"21\" width=\"30\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">.162</text></svg>",
+                "x": 794,
+                "y": 196,
+                "z": 1
+            },
+            {
+                "drawing_id": "dfc869e2-b5d9-456c-b068-4a344427c87b",
+                "rotation": 0,
+                "svg": "<svg height=\"21\" width=\"30\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">.194</text></svg>",
+                "x": 801,
+                "y": 360,
+                "z": 1
+            },
+            {
+                "drawing_id": "1d873f42-3f62-4180-8f0c-223bee8beb59",
+                "rotation": 0,
+                "svg": "<svg height=\"21\" width=\"30\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">.158</text></svg>",
+                "x": 419,
+                "y": 130,
+                "z": 1
+            },
+            {
+                "drawing_id": "367cd0b6-cd86-4bfc-999e-6222b5262a8c",
+                "rotation": 0,
+                "svg": "<svg height=\"21\" width=\"30\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">.190</text></svg>",
+                "x": 445,
+                "y": 191,
+                "z": 1
+            },
+            {
+                "drawing_id": "c798d971-d89b-462b-b6c3-cba5ccf4f31b",
+                "rotation": 0,
+                "svg": "<svg height=\"21\" width=\"30\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">.254</text></svg>",
+                "x": 448,
+                "y": 261,
                 "z": 1
             }
         ],
@@ -1909,5 +2093,5 @@
     "type": "topology",
     "variables": null,
     "version": "2.1.21",
-    "zoom": 71
+    "zoom": 100
 }

@@ -1,0 +1,38 @@
+Sep 12 08:36:19.299 HYPERVISOR: Release 0.2.17-x86/Windows (tag 2017072410)
+Sep 12 08:36:19.301 HYPERVISOR: Started on IP = 192.168.56.1, TCP port = 53307.
+Sep 12 08:36:19.744 HYPERVISOR: exec_cmd: hypervisor version 
+Sep 12 08:36:19.746 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\javie\OneDrive - Instituto Politecnico Nacional\Escom\Administracion de servicios en red\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips 
+Sep 12 08:36:19.746 GENERAL: working_dir=C:\Users\javie\OneDrive - Instituto Politecnico Nacional\Escom\Administracion de servicios en red\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips
+Sep 12 08:36:19.756 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\javie\OneDrive - Instituto Politecnico Nacional\Escom\Administracion de servicios en red\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips\bdc8180e-dfc3-4c5d-a0f3-50aadd61c278 
+Sep 12 08:36:19.757 GENERAL: working_dir=C:\Users\javie\OneDrive - Instituto Politecnico Nacional\Escom\Administracion de servicios en red\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips\bdc8180e-dfc3-4c5d-a0f3-50aadd61c278
+Sep 12 08:36:19.758 HYPERVISOR: exec_cmd: vm create R31 6 c3600 
+Sep 12 08:36:19.767 VM: VM R31 created.
+Sep 12 08:36:19.768 HYPERVISOR: exec_cmd: vm set_con_tcp_port R31 5005 
+Sep 12 08:36:19.770 HYPERVISOR: exec_cmd: c3600 get_mac_addr R31 
+Sep 12 08:36:19.771 HYPERVISOR: exec_cmd: vm set_exec_area R31 64 
+Sep 12 08:36:19.773 HYPERVISOR: exec_cmd: vm get_status R31 
+Sep 12 08:36:19.774 HYPERVISOR: exec_cmd: vm set_idle_pc R31 0x6050b114 
+Sep 12 08:36:19.779 HYPERVISOR: exec_cmd: vm set_ios R31 C:/Users/javie/GNS3/images/IOS/c3640-a3js-mz.124-25d.image 
+Sep 12 08:36:19.781 HYPERVISOR: exec_cmd: c3600 set_mac_addr R31 cc06.0f00.0000 
+Sep 12 08:36:19.782 HYPERVISOR: exec_cmd: vm set_nvram R31 256 
+Sep 12 08:36:19.784 HYPERVISOR: exec_cmd: vm set_ram R31 192 
+Sep 12 08:36:19.785 HYPERVISOR: exec_cmd: vm get_status R31 
+Sep 12 08:36:19.786 HYPERVISOR: exec_cmd: vm slot_add_binding R31 0 0 NM-4E 
+Sep 12 08:36:19.787 HYPERVISOR: exec_cmd: vm get_status R31 
+Sep 12 08:36:19.789 HYPERVISOR: exec_cmd: vm slot_add_binding R31 1 0 NM-4E 
+Sep 12 08:36:19.791 HYPERVISOR: exec_cmd: vm get_status R31 
+Sep 12 08:36:19.792 HYPERVISOR: exec_cmd: vm slot_add_binding R31 2 0 NM-1FE-TX 
+Sep 12 08:36:19.794 HYPERVISOR: exec_cmd: vm get_status R31 
+Sep 12 08:36:19.795 HYPERVISOR: exec_cmd: vm slot_add_binding R31 3 0 NM-1FE-TX 
+Sep 12 08:36:30.863 HYPERVISOR: exec_cmd: nio create_udp udp-aec1e1dc-89bb-423d-9d0b-db72677b664a 10062 127.0.0.1 10063 
+Sep 12 08:36:31.166 HYPERVISOR: exec_cmd: vm slot_add_nio_binding R31 0 0 udp-aec1e1dc-89bb-423d-9d0b-db72677b664a 
+Sep 12 08:36:31.167 HYPERVISOR: exec_cmd: vm get_status R31 
+Sep 12 08:36:31.387 HYPERVISOR: exec_cmd: nio create_udp udp-1ff9b054-6808-4a1c-8519-831d93e7e0c8 10066 127.0.0.1 10067 
+Sep 12 08:36:31.393 HYPERVISOR: exec_cmd: vm slot_add_nio_binding R31 0 1 udp-1ff9b054-6808-4a1c-8519-831d93e7e0c8 
+Sep 12 08:36:31.394 HYPERVISOR: exec_cmd: vm get_status R31 
+Sep 12 08:36:31.970 HYPERVISOR: exec_cmd: nio create_udp udp-78c32829-bb39-4717-be67-d592be666f90 10072 127.0.0.1 10073 
+Sep 12 08:36:31.978 HYPERVISOR: exec_cmd: vm slot_add_nio_binding R31 0 2 udp-78c32829-bb39-4717-be67-d592be666f90 
+Sep 12 08:36:31.979 HYPERVISOR: exec_cmd: vm get_status R31 
+Sep 12 08:36:32.551 HYPERVISOR: exec_cmd: nio create_udp udp-f9dff012-30a2-4312-a8bd-fe546947d558 10078 127.0.0.1 10079 
+Sep 12 08:36:32.556 HYPERVISOR: exec_cmd: vm slot_add_nio_binding R31 0 3 udp-f9dff012-30a2-4312-a8bd-fe546947d558 
+Sep 12 08:36:32.557 HYPERVISOR: exec_cmd: vm get_status R31 

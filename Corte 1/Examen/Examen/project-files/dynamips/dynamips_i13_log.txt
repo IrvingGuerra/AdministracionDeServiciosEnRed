@@ -1,0 +1,40 @@
+Sep 12 08:39:53.784 HYPERVISOR: Release 0.2.17-x86/Windows (tag 2017072410)
+Sep 12 08:39:53.787 HYPERVISOR: Started on IP = 192.168.56.1, TCP port = 53842.
+Sep 12 08:39:54.224 HYPERVISOR: exec_cmd: hypervisor version 
+Sep 12 08:39:54.225 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\javie\OneDrive - Instituto Politecnico Nacional\Escom\Administracion de servicios en red\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips 
+Sep 12 08:39:54.225 GENERAL: working_dir=C:\Users\javie\OneDrive - Instituto Politecnico Nacional\Escom\Administracion de servicios en red\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips
+Sep 12 08:39:54.228 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\javie\OneDrive - Instituto Politecnico Nacional\Escom\Administracion de servicios en red\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips\eed269e3-14e1-4caf-bdec-d29f8b0c752c 
+Sep 12 08:39:54.228 GENERAL: working_dir=C:\Users\javie\OneDrive - Instituto Politecnico Nacional\Escom\Administracion de servicios en red\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips\eed269e3-14e1-4caf-bdec-d29f8b0c752c
+Sep 12 08:39:54.229 HYPERVISOR: exec_cmd: vm create SW21 13 c3600 
+Sep 12 08:39:54.232 VM: VM SW21 created.
+Sep 12 08:39:54.233 HYPERVISOR: exec_cmd: vm set_con_tcp_port SW21 5012 
+Sep 12 08:39:54.233 HYPERVISOR: exec_cmd: c3600 get_mac_addr SW21 
+Sep 12 08:39:54.234 HYPERVISOR: exec_cmd: vm set_exec_area SW21 64 
+Sep 12 08:39:54.235 HYPERVISOR: exec_cmd: vm get_status SW21 
+Sep 12 08:39:54.236 HYPERVISOR: exec_cmd: vm set_idle_pc SW21 0x6050b114 
+Sep 12 08:39:54.239 HYPERVISOR: exec_cmd: vm set_ios SW21 C:/Users/javie/GNS3/images/IOS/c3640-a3js-mz.124-25d.image 
+Sep 12 08:39:54.240 HYPERVISOR: exec_cmd: c3600 set_mac_addr SW21 cc0d.2840.0000 
+Sep 12 08:39:54.240 HYPERVISOR: exec_cmd: vm set_nvram SW21 256 
+Sep 12 08:39:54.241 HYPERVISOR: exec_cmd: vm set_ram SW21 192 
+Sep 12 08:39:54.242 HYPERVISOR: exec_cmd: vm get_status SW21 
+Sep 12 08:39:54.243 HYPERVISOR: exec_cmd: vm slot_add_binding SW21 0 0 NM-16ESW 
+Sep 12 08:40:03.588 HYPERVISOR: exec_cmd: nio create_udp udp-56a01fe1-185e-4a7b-9aec-572772ed1c24 10104 127.0.0.1 10105 
+Sep 12 08:40:03.865 HYPERVISOR: exec_cmd: vm slot_add_nio_binding SW21 0 0 udp-56a01fe1-185e-4a7b-9aec-572772ed1c24 
+Sep 12 08:40:03.866 HYPERVISOR: exec_cmd: vm get_status SW21 
+Sep 12 08:40:04.655 HYPERVISOR: exec_cmd: nio create_udp udp-84c89db7-35ec-408c-9115-4e1250a19433 10114 127.0.0.1 10115 
+Sep 12 08:40:04.659 HYPERVISOR: exec_cmd: vm slot_add_nio_binding SW21 0 1 udp-84c89db7-35ec-408c-9115-4e1250a19433 
+Sep 12 08:40:04.660 HYPERVISOR: exec_cmd: vm get_status SW21 
+Sep 12 09:49:24.704 HYPERVISOR: exec_cmd: vm create Ghost 0 c3600 
+Sep 12 09:49:24.711 VM: VM Ghost created.
+Sep 12 09:49:24.712 HYPERVISOR: exec_cmd: vm set_ios Ghost C:/Users/javie/GNS3/images/IOS/c3640-a3js-mz.124-25d.image 
+Sep 12 09:49:24.712 HYPERVISOR: exec_cmd: vm set_ghost_status Ghost 1 
+Sep 12 09:49:24.713 HYPERVISOR: exec_cmd: vm set_ghost_file Ghost 'C:\Users\javie\OneDrive - Instituto Politecnico Nacional\Escom\Administracion de servicios en red\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips\c3640-a3js-mz.124-25d.image-192.ghost' 
+Sep 12 09:49:24.713 HYPERVISOR: exec_cmd: vm get_status SW21 
+Sep 12 09:49:24.714 HYPERVISOR: exec_cmd: vm set_config SW21 configs\i13_startup-config.cfg 
+Sep 12 09:49:24.716 HYPERVISOR: exec_cmd: vm start SW21 
+Sep 12 09:49:25.100 HYPERVISOR: exec_cmd: vm create Ghost 0 c3600 
+Sep 12 09:49:25.105 HYPERVISOR: exec_cmd: vm get_status SW21 
+Sep 12 10:29:57.043 HYPERVISOR: exec_cmd: vm get_status SW21 
+Sep 12 10:29:57.043 HYPERVISOR: exec_cmd: vm stop SW21 
+Sep 12 10:29:57.163 VM: VM SW21 shutdown.
+Sep 12 10:29:57.164 HYPERVISOR: exec_cmd: vm extract_config SW21 
