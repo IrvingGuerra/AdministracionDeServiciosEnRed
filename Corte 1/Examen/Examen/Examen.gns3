@@ -219,7 +219,7 @@
             {
                 "drawing_id": "a7fa1ca4-fd23-404f-aab4-38b155c20d0f",
                 "rotation": 0,
-                "svg": "<svg height=\"21\" width=\"17\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">.2</text></svg>",
+                "svg": "<svg height=\"24\" width=\"20\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">.2</text></svg>",
                 "x": -92,
                 "y": -130,
                 "z": 1
@@ -2101,5 +2101,5 @@
     "type": "topology",
     "variables": null,
     "version": "2.1.21",
-    "zoom": 50
+    "zoom": 71
 }
