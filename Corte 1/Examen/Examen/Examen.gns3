@@ -171,7 +171,7 @@
             {
                 "drawing_id": "334a1cc9-7c82-4728-b8d9-851fd415cd3a",
                 "rotation": 0,
-                "svg": "<svg height=\"23\" width=\"72\"><text fill=\"#0055ff\" fill-opacity=\"1.0\" font-family=\"MS Shell Dlg 2\" font-size=\"12.0\" font-weight=\"bold\">A.128 / 27</text></svg>",
+                "svg": "<svg height=\"27\" width=\"94\"><text fill=\"#0055ff\" fill-opacity=\"1.0\" font-family=\"MS Shell Dlg 2\" font-size=\"12.0\" font-weight=\"bold\">A.128 / 27</text></svg>",
                 "x": 625,
                 "y": 9,
                 "z": 1
@@ -291,25 +291,25 @@
             {
                 "drawing_id": "f6d1d10a-a751-4b67-9075-2df5cc90ad54",
                 "rotation": 0,
-                "svg": "<svg height=\"21\" width=\"23\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">.30</text></svg>",
-                "x": 33,
+                "svg": "<svg height=\"24\" width=\"28\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">.30</text></svg>",
+                "x": 30,
                 "y": -395,
                 "z": 1
             },
             {
                 "drawing_id": "38a1263c-e44d-4902-95af-b091925bda19",
                 "rotation": 0,
-                "svg": "<svg height=\"21\" width=\"23\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">.38</text></svg>",
-                "x": 20,
-                "y": -328,
+                "svg": "<svg height=\"24\" width=\"28\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">.38</text></svg>",
+                "x": 28,
+                "y": -325,
                 "z": 1
             },
             {
                 "drawing_id": "161da4f7-4210-4a9a-a7eb-3eef38959723",
                 "rotation": 0,
-                "svg": "<svg height=\"21\" width=\"23\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">.46</text></svg>",
-                "x": -135,
-                "y": -400,
+                "svg": "<svg height=\"24\" width=\"28\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">.46</text></svg>",
+                "x": -136,
+                "y": -405,
                 "z": 1
             },
             {
@@ -387,7 +387,7 @@
             {
                 "drawing_id": "375908af-1380-4e35-b8bc-30880811b51b",
                 "rotation": 0,
-                "svg": "<svg height=\"21\" width=\"30\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">.120</text></svg>",
+                "svg": "<svg height=\"24\" width=\"36\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">.130</text></svg>",
                 "x": 796,
                 "y": 38,
                 "z": 1
@@ -588,8 +588,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "f0/0",
-                            "x": 75,
-                            "y": 18
+                            "x": 44,
+                            "y": 34
                         },
                         "node_id": "f2577d0b-b87a-4984-a0d6-810518cff1d2",
                         "port_number": 0
@@ -669,8 +669,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "e0/3",
-                            "x": 65,
-                            "y": -22
+                            "x": 59,
+                            "y": -29
                         },
                         "node_id": "342bf356-51de-4613-b2d4-a81528d63bca",
                         "port_number": 3
@@ -700,8 +700,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "e1/0",
-                            "x": 69,
-                            "y": 29
+                            "x": 60,
+                            "y": 36
                         },
                         "node_id": "342bf356-51de-4613-b2d4-a81528d63bca",
                         "port_number": 0
@@ -1510,8 +1510,8 @@
                 },
                 "symbol": ":/symbols/ethernet_switch.svg",
                 "width": 72,
-                "x": -257,
-                "y": -410,
+                "x": -262,
+                "y": -407,
                 "z": 0
             },
             {
@@ -2092,7 +2092,7 @@
                 "properties": {},
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "width": 65,
-                "x": -451,
+                "x": -449,
                 "y": -303,
                 "z": 0
             }

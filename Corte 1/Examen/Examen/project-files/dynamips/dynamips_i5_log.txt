@@ -1,0 +1,47 @@
+Sep 13 21:52:52.526 HYPERVISOR: Release 0.2.17-x86/Windows (tag 2017072410)
+Sep 13 21:52:52.527 HYPERVISOR: Started on IP = 192.168.0.3, TCP port = 60162.
+Sep 13 21:52:53.017 HYPERVISOR: exec_cmd: hypervisor version 
+Sep 13 21:52:53.017 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\Sir-M\Desktop\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips 
+Sep 13 21:52:53.017 GENERAL: working_dir=C:\Users\Sir-M\Desktop\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips
+Sep 13 21:52:53.017 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\Sir-M\Desktop\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips\7ab2cb28-4b02-4643-ae98-cb3cf7bc2f45 
+Sep 13 21:52:53.018 GENERAL: working_dir=C:\Users\Sir-M\Desktop\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips\7ab2cb28-4b02-4643-ae98-cb3cf7bc2f45
+Sep 13 21:52:53.018 HYPERVISOR: exec_cmd: vm create R21 5 c3600 
+Sep 13 21:52:53.026 VM: VM R21 created.
+Sep 13 21:52:53.027 HYPERVISOR: exec_cmd: vm set_con_tcp_port R21 5004 
+Sep 13 21:52:53.027 HYPERVISOR: exec_cmd: c3600 get_mac_addr R21 
+Sep 13 21:52:53.028 HYPERVISOR: exec_cmd: vm set_exec_area R21 64 
+Sep 13 21:52:53.029 HYPERVISOR: exec_cmd: vm get_status R21 
+Sep 13 21:52:53.029 HYPERVISOR: exec_cmd: vm set_idle_pc R21 0x6050b114 
+Sep 13 21:52:53.030 HYPERVISOR: exec_cmd: vm set_ios R21 C:/Users/Sir-M/GNS3/images/IOS/c3640-a3js-mz.124-25d.image 
+Sep 13 21:52:53.030 HYPERVISOR: exec_cmd: c3600 set_mac_addr R21 cc05.2a90.0000 
+Sep 13 21:52:53.031 HYPERVISOR: exec_cmd: vm set_nvram R21 256 
+Sep 13 21:52:53.031 HYPERVISOR: exec_cmd: vm set_ram R21 192 
+Sep 13 21:52:53.031 HYPERVISOR: exec_cmd: vm get_status R21 
+Sep 13 21:52:53.031 HYPERVISOR: exec_cmd: vm slot_add_binding R21 0 0 NM-4E 
+Sep 13 21:52:53.032 HYPERVISOR: exec_cmd: vm get_status R21 
+Sep 13 21:52:53.032 HYPERVISOR: exec_cmd: vm slot_add_binding R21 1 0 NM-4E 
+Sep 13 21:52:53.032 HYPERVISOR: exec_cmd: vm get_status R21 
+Sep 13 21:52:53.032 HYPERVISOR: exec_cmd: vm slot_add_binding R21 2 0 NM-1FE-TX 
+Sep 13 21:52:53.032 HYPERVISOR: exec_cmd: vm get_status R21 
+Sep 13 21:52:53.033 HYPERVISOR: exec_cmd: vm slot_add_binding R21 3 0 NM-1FE-TX 
+Sep 13 21:53:07.051 HYPERVISOR: exec_cmd: nio create_udp udp-46ec4caf-5306-4f1f-8287-2ba99f9d8de2 10098 127.0.0.1 10099 
+Sep 13 21:53:07.356 HYPERVISOR: exec_cmd: vm slot_add_nio_binding R21 0 0 udp-46ec4caf-5306-4f1f-8287-2ba99f9d8de2 
+Sep 13 21:53:07.357 HYPERVISOR: exec_cmd: vm get_status R21 
+Sep 13 21:53:07.460 HYPERVISOR: exec_cmd: nio create_udp udp-fc2b476c-2c94-4d1a-bf95-1c319e0e733a 10102 127.0.0.1 10103 
+Sep 13 21:53:07.463 HYPERVISOR: exec_cmd: vm slot_add_nio_binding R21 0 1 udp-fc2b476c-2c94-4d1a-bf95-1c319e0e733a 
+Sep 13 21:53:07.463 HYPERVISOR: exec_cmd: vm get_status R21 
+Sep 13 21:53:07.922 HYPERVISOR: exec_cmd: nio create_udp udp-225bceb4-aaae-4bdd-9cc5-e0ac2813d203 10108 127.0.0.1 10109 
+Sep 13 21:53:07.924 HYPERVISOR: exec_cmd: vm slot_add_nio_binding R21 0 2 udp-225bceb4-aaae-4bdd-9cc5-e0ac2813d203 
+Sep 13 21:53:07.924 HYPERVISOR: exec_cmd: vm get_status R21 
+Sep 13 21:53:20.226 HYPERVISOR: exec_cmd: vm create Ghost 0 c3600 
+Sep 13 21:53:20.227 VM: VM Ghost created.
+Sep 13 21:53:20.227 HYPERVISOR: exec_cmd: vm set_ios Ghost C:/Users/Sir-M/GNS3/images/IOS/c3640-a3js-mz.124-25d.image 
+Sep 13 21:53:20.228 HYPERVISOR: exec_cmd: vm set_ghost_status Ghost 1 
+Sep 13 21:53:20.228 HYPERVISOR: exec_cmd: vm set_ghost_file Ghost 'C:\Users\Sir-M\Desktop\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips\c3640-a3js-mz.124-25d.image-192.ghost' 
+Sep 13 21:53:20.228 HYPERVISOR: exec_cmd: vm get_status R21 
+Sep 13 21:53:20.230 HYPERVISOR: exec_cmd: vm set_config R21 configs\i5_startup-config.cfg 
+Sep 13 21:53:20.230 HYPERVISOR: exec_cmd: vm start R21 
+Sep 13 23:18:26.866 HYPERVISOR: exec_cmd: vm get_status R21 
+Sep 13 23:18:26.867 HYPERVISOR: exec_cmd: vm stop R21 
+Sep 13 23:18:27.135 VM: VM R21 shutdown.
+Sep 13 23:18:27.136 HYPERVISOR: exec_cmd: vm extract_config R21 
