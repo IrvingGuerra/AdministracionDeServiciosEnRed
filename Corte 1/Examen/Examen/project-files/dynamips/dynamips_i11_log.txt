@@ -1,0 +1,26 @@
+Sep 16 19:24:08.934 HYPERVISOR: Release 0.2.17-x86/Windows (tag 2017072410)
+Sep 16 19:24:08.935 HYPERVISOR: Started on IP = 192.168.0.3, TCP port = 53913.
+Sep 16 19:24:09.421 HYPERVISOR: exec_cmd: hypervisor version 
+Sep 16 19:24:09.422 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\Sir-M\Desktop\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips 
+Sep 16 19:24:09.422 GENERAL: working_dir=C:\Users\Sir-M\Desktop\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips
+Sep 16 19:24:09.423 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\Sir-M\Desktop\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips\f2e66f73-0d8b-4865-aa20-9597009127d7 
+Sep 16 19:24:09.423 GENERAL: working_dir=C:\Users\Sir-M\Desktop\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips\f2e66f73-0d8b-4865-aa20-9597009127d7
+Sep 16 19:24:09.423 HYPERVISOR: exec_cmd: vm create SW33 12 c3600 
+Sep 16 19:24:09.426 VM: VM SW33 created.
+Sep 16 19:24:09.426 HYPERVISOR: exec_cmd: vm set_con_tcp_port SW33 5011 
+Sep 16 19:24:09.426 HYPERVISOR: exec_cmd: c3600 get_mac_addr SW33 
+Sep 16 19:24:09.426 HYPERVISOR: exec_cmd: vm set_exec_area SW33 64 
+Sep 16 19:24:09.427 HYPERVISOR: exec_cmd: vm get_status SW33 
+Sep 16 19:24:09.427 HYPERVISOR: exec_cmd: vm set_idle_pc SW33 0x6050b114 
+Sep 16 19:24:09.428 HYPERVISOR: exec_cmd: vm set_ios SW33 C:/Users/Sir-M/GNS3/images/IOS/c3640-a3js-mz.124-25d.image 
+Sep 16 19:24:09.429 HYPERVISOR: exec_cmd: c3600 set_mac_addr SW33 cc0c.08dc.0000 
+Sep 16 19:24:09.429 HYPERVISOR: exec_cmd: vm set_nvram SW33 256 
+Sep 16 19:24:09.430 HYPERVISOR: exec_cmd: vm set_ram SW33 192 
+Sep 16 19:24:09.430 HYPERVISOR: exec_cmd: vm get_status SW33 
+Sep 16 19:24:09.431 HYPERVISOR: exec_cmd: vm slot_add_binding SW33 0 0 NM-16ESW 
+Sep 16 19:24:16.707 HYPERVISOR: exec_cmd: nio create_udp udp-001bd466-59c9-4bdd-aba2-cb09685b5550 10066 127.0.0.1 10067 
+Sep 16 19:24:17.047 HYPERVISOR: exec_cmd: vm slot_add_nio_binding SW33 0 0 udp-001bd466-59c9-4bdd-aba2-cb09685b5550 
+Sep 16 19:24:17.048 HYPERVISOR: exec_cmd: vm get_status SW33 
+Sep 16 19:24:17.532 HYPERVISOR: exec_cmd: nio create_udp udp-6c37782a-9cfa-4677-9e0d-3f3bbf650cd5 10078 127.0.0.1 10079 
+Sep 16 19:24:17.535 HYPERVISOR: exec_cmd: vm slot_add_nio_binding SW33 0 1 udp-6c37782a-9cfa-4677-9e0d-3f3bbf650cd5 
+Sep 16 19:24:17.536 HYPERVISOR: exec_cmd: vm get_status SW33 

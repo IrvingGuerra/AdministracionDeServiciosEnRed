@@ -1,0 +1,26 @@
+Sep 16 19:24:09.510 HYPERVISOR: Release 0.2.17-x86/Windows (tag 2017072410)
+Sep 16 19:24:09.511 HYPERVISOR: Started on IP = 192.168.0.3, TCP port = 53916.
+Sep 16 19:24:10.001 HYPERVISOR: exec_cmd: hypervisor version 
+Sep 16 19:24:10.001 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\Sir-M\Desktop\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips 
+Sep 16 19:24:10.001 GENERAL: working_dir=C:\Users\Sir-M\Desktop\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips
+Sep 16 19:24:10.002 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\Sir-M\Desktop\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips\eed269e3-14e1-4caf-bdec-d29f8b0c752c 
+Sep 16 19:24:10.002 GENERAL: working_dir=C:\Users\Sir-M\Desktop\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips\eed269e3-14e1-4caf-bdec-d29f8b0c752c
+Sep 16 19:24:10.002 HYPERVISOR: exec_cmd: vm create SW21 13 c3600 
+Sep 16 19:24:10.004 VM: VM SW21 created.
+Sep 16 19:24:10.004 HYPERVISOR: exec_cmd: vm set_con_tcp_port SW21 5012 
+Sep 16 19:24:10.004 HYPERVISOR: exec_cmd: c3600 get_mac_addr SW21 
+Sep 16 19:24:10.004 HYPERVISOR: exec_cmd: vm set_exec_area SW21 64 
+Sep 16 19:24:10.005 HYPERVISOR: exec_cmd: vm get_status SW21 
+Sep 16 19:24:10.005 HYPERVISOR: exec_cmd: vm set_idle_pc SW21 0x6050b114 
+Sep 16 19:24:10.006 HYPERVISOR: exec_cmd: vm set_ios SW21 C:/Users/Sir-M/GNS3/images/IOS/c3640-a3js-mz.124-25d.image 
+Sep 16 19:24:10.006 HYPERVISOR: exec_cmd: c3600 set_mac_addr SW21 cc0d.2840.0000 
+Sep 16 19:24:10.006 HYPERVISOR: exec_cmd: vm set_nvram SW21 256 
+Sep 16 19:24:10.007 HYPERVISOR: exec_cmd: vm set_ram SW21 192 
+Sep 16 19:24:10.007 HYPERVISOR: exec_cmd: vm get_status SW21 
+Sep 16 19:24:10.007 HYPERVISOR: exec_cmd: vm slot_add_binding SW21 0 0 NM-16ESW 
+Sep 16 19:24:18.222 HYPERVISOR: exec_cmd: nio create_udp udp-ad0b2ef5-ab68-4238-938f-75b4cac01354 10090 127.0.0.1 10091 
+Sep 16 19:24:18.520 HYPERVISOR: exec_cmd: vm slot_add_nio_binding SW21 0 0 udp-ad0b2ef5-ab68-4238-938f-75b4cac01354 
+Sep 16 19:24:18.520 HYPERVISOR: exec_cmd: vm get_status SW21 
+Sep 16 19:24:19.080 HYPERVISOR: exec_cmd: nio create_udp udp-9b82fc87-043b-469f-b7b7-23b355e06842 10100 127.0.0.1 10101 
+Sep 16 19:24:19.083 HYPERVISOR: exec_cmd: vm slot_add_nio_binding SW21 0 1 udp-9b82fc87-043b-469f-b7b7-23b355e06842 
+Sep 16 19:24:19.083 HYPERVISOR: exec_cmd: vm get_status SW21 

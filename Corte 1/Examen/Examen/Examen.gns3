@@ -243,8 +243,8 @@
             {
                 "drawing_id": "a9c8de2b-7cbd-471d-b824-a149fe399962",
                 "rotation": 0,
-                "svg": "<svg height=\"21\" width=\"23\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">.13</text></svg>",
-                "x": -69,
+                "svg": "<svg height=\"24\" width=\"28\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">.13</text></svg>",
+                "x": -71,
                 "y": -218,
                 "z": 1
             },
@@ -545,7 +545,7 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "e0/0",
-                            "x": 37,
+                            "x": 45,
                             "y": -26
                         },
                         "node_id": "86045c5b-66eb-411c-bfae-571d36982878",

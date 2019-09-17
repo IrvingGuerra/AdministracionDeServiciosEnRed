@@ -1,0 +1,26 @@
+Sep 16 19:24:10.317 HYPERVISOR: Release 0.2.17-x86/Windows (tag 2017072410)
+Sep 16 19:24:10.318 HYPERVISOR: Started on IP = 192.168.0.3, TCP port = 53921.
+Sep 16 19:24:10.779 HYPERVISOR: exec_cmd: hypervisor version 
+Sep 16 19:24:10.779 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\Sir-M\Desktop\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips 
+Sep 16 19:24:10.779 GENERAL: working_dir=C:\Users\Sir-M\Desktop\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips
+Sep 16 19:24:10.780 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\Sir-M\Desktop\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips\3a5ed4e8-4f1b-4e21-8e30-84bf04217d49 
+Sep 16 19:24:10.780 GENERAL: working_dir=C:\Users\Sir-M\Desktop\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips\3a5ed4e8-4f1b-4e21-8e30-84bf04217d49
+Sep 16 19:24:10.780 HYPERVISOR: exec_cmd: vm create SW22 14 c3600 
+Sep 16 19:24:10.783 VM: VM SW22 created.
+Sep 16 19:24:10.784 HYPERVISOR: exec_cmd: vm set_con_tcp_port SW22 5013 
+Sep 16 19:24:10.784 HYPERVISOR: exec_cmd: c3600 get_mac_addr SW22 
+Sep 16 19:24:10.784 HYPERVISOR: exec_cmd: vm set_exec_area SW22 64 
+Sep 16 19:24:10.784 HYPERVISOR: exec_cmd: vm get_status SW22 
+Sep 16 19:24:10.784 HYPERVISOR: exec_cmd: vm set_idle_pc SW22 0x6050b114 
+Sep 16 19:24:10.785 HYPERVISOR: exec_cmd: vm set_ios SW22 C:/Users/Sir-M/GNS3/images/IOS/c3640-a3js-mz.124-25d.image 
+Sep 16 19:24:10.786 HYPERVISOR: exec_cmd: c3600 set_mac_addr SW22 cc0e.0370.0000 
+Sep 16 19:24:10.786 HYPERVISOR: exec_cmd: vm set_nvram SW22 256 
+Sep 16 19:24:10.786 HYPERVISOR: exec_cmd: vm set_ram SW22 192 
+Sep 16 19:24:10.787 HYPERVISOR: exec_cmd: vm get_status SW22 
+Sep 16 19:24:10.787 HYPERVISOR: exec_cmd: vm slot_add_binding SW22 0 0 NM-16ESW 
+Sep 16 19:24:18.651 HYPERVISOR: exec_cmd: nio create_udp udp-000cde68-9f22-4d95-9561-a53d1ee37d6f 10096 127.0.0.1 10097 
+Sep 16 19:24:18.966 HYPERVISOR: exec_cmd: vm slot_add_nio_binding SW22 0 0 udp-000cde68-9f22-4d95-9561-a53d1ee37d6f 
+Sep 16 19:24:18.966 HYPERVISOR: exec_cmd: vm get_status SW22 
+Sep 16 19:24:19.204 HYPERVISOR: exec_cmd: nio create_udp udp-ce01e684-5227-4189-902d-ea2b32dd9ea9 10104 127.0.0.1 10105 
+Sep 16 19:24:19.208 HYPERVISOR: exec_cmd: vm slot_add_nio_binding SW22 0 1 udp-ce01e684-5227-4189-902d-ea2b32dd9ea9 
+Sep 16 19:24:19.208 HYPERVISOR: exec_cmd: vm get_status SW22 

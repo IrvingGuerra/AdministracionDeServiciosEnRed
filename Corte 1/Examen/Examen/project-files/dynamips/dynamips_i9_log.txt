@@ -1,0 +1,26 @@
+Sep 16 19:24:07.801 HYPERVISOR: Release 0.2.17-x86/Windows (tag 2017072410)
+Sep 16 19:24:07.802 HYPERVISOR: Started on IP = 192.168.0.3, TCP port = 53905.
+Sep 16 19:24:08.289 HYPERVISOR: exec_cmd: hypervisor version 
+Sep 16 19:24:08.290 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\Sir-M\Desktop\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips 
+Sep 16 19:24:08.290 GENERAL: working_dir=C:\Users\Sir-M\Desktop\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips
+Sep 16 19:24:08.290 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\Sir-M\Desktop\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips\d56fa156-4f35-4309-a62f-0b281422b5c2 
+Sep 16 19:24:08.290 GENERAL: working_dir=C:\Users\Sir-M\Desktop\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips\d56fa156-4f35-4309-a62f-0b281422b5c2
+Sep 16 19:24:08.291 HYPERVISOR: exec_cmd: vm create SW31 10 c3600 
+Sep 16 19:24:08.292 VM: VM SW31 created.
+Sep 16 19:24:08.292 HYPERVISOR: exec_cmd: vm set_con_tcp_port SW31 5009 
+Sep 16 19:24:08.293 HYPERVISOR: exec_cmd: c3600 get_mac_addr SW31 
+Sep 16 19:24:08.293 HYPERVISOR: exec_cmd: vm set_exec_area SW31 64 
+Sep 16 19:24:08.293 HYPERVISOR: exec_cmd: vm get_status SW31 
+Sep 16 19:24:08.293 HYPERVISOR: exec_cmd: vm set_idle_pc SW31 0x6050b114 
+Sep 16 19:24:08.294 HYPERVISOR: exec_cmd: vm set_ios SW31 C:/Users/Sir-M/GNS3/images/IOS/c3640-a3js-mz.124-25d.image 
+Sep 16 19:24:08.294 HYPERVISOR: exec_cmd: c3600 set_mac_addr SW31 cc0a.2a6c.0000 
+Sep 16 19:24:08.295 HYPERVISOR: exec_cmd: vm set_nvram SW31 256 
+Sep 16 19:24:08.295 HYPERVISOR: exec_cmd: vm set_ram SW31 192 
+Sep 16 19:24:08.295 HYPERVISOR: exec_cmd: vm get_status SW31 
+Sep 16 19:24:08.295 HYPERVISOR: exec_cmd: vm slot_add_binding SW31 0 0 NM-16ESW 
+Sep 16 19:24:15.578 HYPERVISOR: exec_cmd: nio create_udp udp-c2fed6e0-3cd7-4487-8f86-eb2776d90bd9 10054 127.0.0.1 10055 
+Sep 16 19:24:15.873 HYPERVISOR: exec_cmd: vm slot_add_nio_binding SW31 0 0 udp-c2fed6e0-3cd7-4487-8f86-eb2776d90bd9 
+Sep 16 19:24:15.874 HYPERVISOR: exec_cmd: vm get_status SW31 
+Sep 16 19:24:17.158 HYPERVISOR: exec_cmd: nio create_udp udp-c789fdf9-35c6-4927-83b2-f2aad444302f 10070 127.0.0.1 10071 
+Sep 16 19:24:17.161 HYPERVISOR: exec_cmd: vm slot_add_nio_binding SW31 0 1 udp-c789fdf9-35c6-4927-83b2-f2aad444302f 
+Sep 16 19:24:17.161 HYPERVISOR: exec_cmd: vm get_status SW31 
