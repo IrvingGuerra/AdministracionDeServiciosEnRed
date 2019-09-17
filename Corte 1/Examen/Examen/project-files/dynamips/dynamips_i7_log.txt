@@ -24,3 +24,19 @@ Sep 16 19:24:14.149 HYPERVISOR: exec_cmd: vm get_status SW11
 Sep 16 19:24:14.761 HYPERVISOR: exec_cmd: nio create_udp udp-f89ea57c-a1fe-40de-a7e5-508178f4de39 10038 127.0.0.1 10039 
 Sep 16 19:24:14.764 HYPERVISOR: exec_cmd: vm slot_add_nio_binding SW11 0 1 udp-f89ea57c-a1fe-40de-a7e5-508178f4de39 
 Sep 16 19:24:14.764 HYPERVISOR: exec_cmd: vm get_status SW11 
+Sep 16 19:26:01.245 HYPERVISOR: exec_cmd: vm create Ghost 0 c3600 
+Sep 16 19:26:01.247 VM: VM Ghost created.
+Sep 16 19:26:01.247 HYPERVISOR: exec_cmd: vm set_ios Ghost C:/Users/Sir-M/GNS3/images/IOS/c3640-a3js-mz.124-25d.image 
+Sep 16 19:26:01.248 HYPERVISOR: exec_cmd: vm set_ghost_status Ghost 1 
+Sep 16 19:26:01.248 HYPERVISOR: exec_cmd: vm set_ghost_file Ghost 'C:\Users\Sir-M\Desktop\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips\c3640-a3js-mz.124-25d.image-192.ghost' 
+Sep 16 19:26:01.248 HYPERVISOR: exec_cmd: vm get_status SW11 
+Sep 16 19:26:01.251 HYPERVISOR: exec_cmd: vm set_config SW11 configs\i8_startup-config.cfg 
+Sep 16 19:26:01.251 HYPERVISOR: exec_cmd: vm start SW11 
+Sep 16 19:34:33.840 HYPERVISOR: exec_cmd: vm get_status SW11 
+Sep 16 19:34:33.840 HYPERVISOR: exec_cmd: vm stop SW11 
+Sep 16 19:34:34.018 VM: VM SW11 shutdown.
+Sep 16 19:34:34.019 HYPERVISOR: exec_cmd: vm extract_config SW11 
+Sep 16 19:34:36.463 HYPERVISOR: exec_cmd: vm create Ghost 0 c3600 
+Sep 16 19:34:36.465 HYPERVISOR: exec_cmd: vm get_status SW11 
+Sep 16 19:34:36.468 HYPERVISOR: exec_cmd: vm set_config SW11 configs\i8_startup-config.cfg 
+Sep 16 19:34:36.468 HYPERVISOR: exec_cmd: vm start SW11 

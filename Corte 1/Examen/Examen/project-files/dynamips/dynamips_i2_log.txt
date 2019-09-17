@@ -33,3 +33,19 @@ Sep 16 19:24:13.220 HYPERVISOR: exec_cmd: vm get_status R2
 Sep 16 19:24:17.650 HYPERVISOR: exec_cmd: nio create_udp udp-4306e398-85eb-4426-aa5a-fa50181111bb 10082 127.0.0.1 10083 
 Sep 16 19:24:17.652 HYPERVISOR: exec_cmd: vm slot_add_nio_binding R2 0 0 udp-4306e398-85eb-4426-aa5a-fa50181111bb 
 Sep 16 19:24:17.653 HYPERVISOR: exec_cmd: vm get_status R2 
+Sep 16 19:25:59.764 HYPERVISOR: exec_cmd: vm create Ghost 0 c3600 
+Sep 16 19:25:59.766 VM: VM Ghost created.
+Sep 16 19:25:59.832 HYPERVISOR: exec_cmd: vm set_ios Ghost C:/Users/Sir-M/GNS3/images/IOS/c3640-a3js-mz.124-25d.image 
+Sep 16 19:25:59.832 HYPERVISOR: exec_cmd: vm set_ghost_status Ghost 1 
+Sep 16 19:25:59.833 HYPERVISOR: exec_cmd: vm set_ghost_file Ghost 'C:\Users\Sir-M\Desktop\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips\c3640-a3js-mz.124-25d.image-192.ghost' 
+Sep 16 19:25:59.833 HYPERVISOR: exec_cmd: vm get_status R2 
+Sep 16 19:25:59.835 HYPERVISOR: exec_cmd: vm set_config R2 configs\i2_startup-config.cfg 
+Sep 16 19:25:59.835 HYPERVISOR: exec_cmd: vm start R2 
+Sep 16 19:34:33.326 HYPERVISOR: exec_cmd: vm get_status R2 
+Sep 16 19:34:33.326 HYPERVISOR: exec_cmd: vm stop R2 
+Sep 16 19:34:33.597 VM: VM R2 shutdown.
+Sep 16 19:34:33.598 HYPERVISOR: exec_cmd: vm extract_config R2 
+Sep 16 19:34:35.654 HYPERVISOR: exec_cmd: vm create Ghost 0 c3600 
+Sep 16 19:34:35.656 HYPERVISOR: exec_cmd: vm get_status R2 
+Sep 16 19:34:35.659 HYPERVISOR: exec_cmd: vm set_config R2 configs\i2_startup-config.cfg 
+Sep 16 19:34:35.660 HYPERVISOR: exec_cmd: vm start R2 
