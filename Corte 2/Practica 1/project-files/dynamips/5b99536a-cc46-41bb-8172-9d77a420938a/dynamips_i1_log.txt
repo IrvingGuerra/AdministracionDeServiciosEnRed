@@ -1,0 +1,40 @@
+Sep 29 23:35:15.107 HYPERVISOR: Release 0.2.17-amd64/Darwin (tag 2017072410)
+Sep 29 23:35:15.108 HYPERVISOR: Started on IP = 127.0.0.1, TCP port = 63489.
+Sep 29 23:35:15.126 HYPERVISOR: exec_cmd: hypervisor version 
+Sep 29 23:35:15.126 HYPERVISOR: exec_cmd: hypervisor working_dir /Users/irvingguerra/Documents/AdministracionDeServiciosEnRed/Corte 2/Practica 1/Practica 1/project-files/dynamips 
+Sep 29 23:35:15.126 GENERAL: working_dir=/Users/irvingguerra/Documents/AdministracionDeServiciosEnRed/Corte 2/Practica 1/Practica 1/project-files/dynamips
+Sep 29 23:35:15.126 HYPERVISOR: exec_cmd: hypervisor working_dir /Users/irvingguerra/Documents/AdministracionDeServiciosEnRed/Corte 2/Practica 1/Practica 1/project-files/dynamips/392bc332-b7b3-4ac2-93af-a9720eb07c2e 
+Sep 29 23:35:15.126 GENERAL: working_dir=/Users/irvingguerra/Documents/AdministracionDeServiciosEnRed/Corte 2/Practica 1/Practica 1/project-files/dynamips/392bc332-b7b3-4ac2-93af-a9720eb07c2e
+Sep 29 23:35:15.127 HYPERVISOR: exec_cmd: vm create SW1 4 c3600 
+Sep 29 23:35:15.128 VM: VM SW1 created.
+Sep 29 23:35:15.128 HYPERVISOR: exec_cmd: vm set_con_tcp_port SW1 5003 
+Sep 29 23:35:15.128 HYPERVISOR: exec_cmd: c3600 get_mac_addr SW1 
+Sep 29 23:35:15.129 HYPERVISOR: exec_cmd: vm get_status SW1 
+Sep 29 23:35:15.129 HYPERVISOR: exec_cmd: vm set_idle_pc SW1 0x6050b114 
+Sep 29 23:35:15.130 HYPERVISOR: exec_cmd: vm set_ios SW1 /Users/irvingguerra/GNS3/images/IOS/c3640-a3js-mz.124-25d.image 
+Sep 29 23:35:15.130 HYPERVISOR: exec_cmd: c3600 set_mac_addr SW1 cc04.2251.0000 
+Sep 29 23:35:15.131 HYPERVISOR: exec_cmd: vm set_nvram SW1 256 
+Sep 29 23:35:15.131 HYPERVISOR: exec_cmd: vm set_ram SW1 192 
+Sep 29 23:35:15.131 HYPERVISOR: exec_cmd: vm get_status SW1 
+Sep 29 23:35:15.132 HYPERVISOR: exec_cmd: vm slot_add_binding SW1 0 0 NM-16ESW 
+Sep 29 23:35:15.472 HYPERVISOR: exec_cmd: nio create_udp udp-ef99950f-84c7-4d9c-8d18-9394f8e00010 10002 127.0.0.1 10003 
+Sep 29 23:35:15.698 HYPERVISOR: exec_cmd: vm slot_add_nio_binding SW1 0 1 udp-ef99950f-84c7-4d9c-8d18-9394f8e00010 
+Sep 29 23:35:15.698 HYPERVISOR: exec_cmd: vm get_status SW1 
+Sep 29 23:35:15.991 HYPERVISOR: exec_cmd: nio create_udp udp-c2dcde7e-7b21-4397-8e82-f6b2a1efb41f 10008 127.0.0.1 10009 
+Sep 29 23:35:15.992 HYPERVISOR: exec_cmd: vm slot_add_nio_binding SW1 0 2 udp-c2dcde7e-7b21-4397-8e82-f6b2a1efb41f 
+Sep 29 23:35:15.992 HYPERVISOR: exec_cmd: vm get_status SW1 
+Sep 29 23:35:16.060 HYPERVISOR: exec_cmd: nio create_udp udp-12904f21-70fa-4985-8c36-b50c8e9dc9eb 10014 127.0.0.1 10015 
+Sep 29 23:35:16.061 HYPERVISOR: exec_cmd: vm slot_add_nio_binding SW1 0 4 udp-12904f21-70fa-4985-8c36-b50c8e9dc9eb 
+Sep 29 23:35:16.062 HYPERVISOR: exec_cmd: vm get_status SW1 
+Sep 29 23:35:17.731 HYPERVISOR: exec_cmd: nio create_udp udp-293ec909-85a4-4c4d-8758-c0bc24aad6ad 10072 127.0.0.1 10073 
+Sep 29 23:35:17.732 HYPERVISOR: exec_cmd: vm slot_add_nio_binding SW1 0 0 udp-293ec909-85a4-4c4d-8758-c0bc24aad6ad 
+Sep 29 23:35:17.733 HYPERVISOR: exec_cmd: vm get_status SW1 
+Sep 29 23:36:47.251 HYPERVISOR: exec_cmd: vm get_status SW1 
+Sep 29 23:36:47.252 HYPERVISOR: exec_cmd: vm extract_config SW1 
+Sep 29 23:36:47.478 HYPERVISOR: exec_cmd: vm get_status SW1 
+Sep 29 23:36:47.478 HYPERVISOR: exec_cmd: vm extract_config SW1 
+Sep 29 23:36:47.479 HYPERVISOR: exec_cmd: vm delete SW1 
+Sep 29 23:36:47.479 VM: VM SW1 destroyed.
+Sep 29 23:36:47.480 HYPERVISOR: exec_cmd: hypervisor stop 
+Sep 29 23:36:47.486 HYPERVISOR: Stopped.
+Sep 29 23:36:47.486 GENERAL: reset done.
