@@ -1,0 +1,8 @@
+Sep 17 14:08:09.222 HYPERVISOR: Release 0.2.17-x86/Windows (tag 2017072410)
+Sep 17 14:08:09.223 HYPERVISOR: Started on IP = 192.168.56.1, TCP port = 64454.
+Sep 17 14:08:09.350 HYPERVISOR: exec_cmd: hypervisor version 
+Sep 17 14:08:09.351 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\javie\OneDrive - Instituto Politecnico Nacional\Escom\Administracion de servicios en red\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips 
+Sep 17 14:08:09.351 GENERAL: working_dir=C:\Users\javie\OneDrive - Instituto Politecnico Nacional\Escom\Administracion de servicios en red\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips
+Sep 17 14:08:09.351 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\javie\OneDrive - Instituto Politecnico Nacional\Escom\Administracion de servicios en red\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips\86045c5b-66eb-411c-bfae-571d36982878 
+Sep 17 14:08:09.351 GENERAL: working_dir=C:\Users\javie\OneDrive - Instituto Politecnico Nacional\Escom\Administracion de servicios en red\AdministracionDeServiciosEnRed\Corte 1\Examen\Examen\project-files\dynamips\86045c5b-66eb-411c-bfae-571d36982878
+Sep 17 14:08:09.351 HYPERVISOR: exec_cmd: vm create R1 1 c3600 

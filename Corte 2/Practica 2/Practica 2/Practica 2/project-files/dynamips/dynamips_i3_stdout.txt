@@ -1,0 +1,2 @@
+Unable to create lock file "c3600_i1_lock".
+VM SW1: unable to create instance!
