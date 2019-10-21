@@ -1,6 +1,3 @@
-cygwin warning:
-  MS-DOS style path detected: D:\javie\OneDrive - Instituto Politecnico Nacional\Escom\Administracion de servicios en red\AdministracionDeServiciosEnRed\Corte 2\Practica 2\Practica 2\Practica 2\project-files\dynamips
-  Preferred POSIX equivalent is: /cygdrive/d/javie/OneDrive - Instituto Politecnico Nacional/Escom/Administracion de servicios en red/AdministracionDeServiciosEnRed/Corte 2/Practica 2/Practica 2/Practica 2/project-files/dynamips
-  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
-  Consult the user's guide for more details about POSIX paths:
-    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+VM: Unable to store instance 'Ghost' in registry!
+VM Ghost: unable to create instance!
+vtty_thread: select: Bad file descriptor
