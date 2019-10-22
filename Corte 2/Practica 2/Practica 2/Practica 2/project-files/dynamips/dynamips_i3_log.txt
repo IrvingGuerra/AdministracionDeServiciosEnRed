@@ -1,0 +1,60 @@
+Oct 22 00:27:23.810 HYPERVISOR: Release 0.2.21-amd64/Linux (tag 2019071212)
+Oct 22 00:27:23.810 HYPERVISOR: Started on IP = 127.0.0.1, TCP port = 41239.
+Oct 22 00:27:23.820 HYPERVISOR: exec_cmd: hypervisor version 
+Oct 22 00:27:23.820 HYPERVISOR: exec_cmd: hypervisor working_dir /home/irvingguerra/Documentos/AdministracionDeServiciosEnRed/Corte 2/Practica 2/Practica 2/Practica 2/project-files/dynamips 
+Oct 22 00:27:23.820 GENERAL: working_dir=/home/irvingguerra/Documentos/AdministracionDeServiciosEnRed/Corte 2/Practica 2/Practica 2/Practica 2/project-files/dynamips
+Oct 22 00:27:23.821 HYPERVISOR: exec_cmd: hypervisor working_dir /home/irvingguerra/Documentos/AdministracionDeServiciosEnRed/Corte 2/Practica 2/Practica 2/Practica 2/project-files/dynamips/96e073b9-004c-415f-9e61-1bc4c01ac74d 
+Oct 22 00:27:23.821 GENERAL: working_dir=/home/irvingguerra/Documentos/AdministracionDeServiciosEnRed/Corte 2/Practica 2/Practica 2/Practica 2/project-files/dynamips/96e073b9-004c-415f-9e61-1bc4c01ac74d
+Oct 22 00:27:23.822 HYPERVISOR: exec_cmd: vm create R2 2 c3600 
+Oct 22 00:27:23.822 VM: VM R2 created.
+Oct 22 00:27:23.823 HYPERVISOR: exec_cmd: vm set_con_tcp_port R2 5005 
+Oct 22 00:27:23.823 HYPERVISOR: exec_cmd: c3600 get_mac_addr R2 
+Oct 22 00:27:23.825 HYPERVISOR: exec_cmd: vm set_ios R2 /home/irvingguerra/GNS3/images/IOS/c3640-a3js-mz.124-25d.image 
+Oct 22 00:27:23.826 HYPERVISOR: exec_cmd: vm get_status R2 
+Oct 22 00:27:23.826 HYPERVISOR: exec_cmd: vm set_idle_pc R2 0x6050b114 
+Oct 22 00:27:23.827 HYPERVISOR: exec_cmd: vm set_ram R2 192 
+Oct 22 00:27:23.828 HYPERVISOR: exec_cmd: vm set_nvram R2 256 
+Oct 22 00:27:23.829 HYPERVISOR: exec_cmd: vm get_status R2 
+Oct 22 00:27:23.829 HYPERVISOR: exec_cmd: vm slot_add_binding R2 0 0 NM-1FE-TX 
+Oct 22 00:27:23.830 HYPERVISOR: exec_cmd: vm get_status R2 
+Oct 22 00:27:23.830 HYPERVISOR: exec_cmd: vm slot_add_binding R2 1 0 NM-1FE-TX 
+Oct 22 00:27:23.831 HYPERVISOR: exec_cmd: vm get_status R2 
+Oct 22 00:27:23.831 HYPERVISOR: exec_cmd: vm slot_add_binding R2 2 0 NM-1FE-TX 
+Oct 22 00:27:23.832 HYPERVISOR: exec_cmd: vm get_status R2 
+Oct 22 00:27:23.832 HYPERVISOR: exec_cmd: vm slot_add_binding R2 3 0 NM-1FE-TX 
+Oct 22 00:27:23.981 HYPERVISOR: exec_cmd: vm set_ios R2 /home/irvingguerra/GNS3/images/IOS/c3640-a3js-mz.124-25d.image 
+Oct 22 00:27:24.469 HYPERVISOR: exec_cmd: vm set_ios R2 /home/irvingguerra/GNS3/images/IOS/c3640-a3js-mz.124-25d.image 
+Oct 22 00:27:30.744 HYPERVISOR: exec_cmd: vm set_ios R2 /home/irvingguerra/GNS3/images/IOS/c3640-a3js-mz.124-25d.image 
+Oct 22 00:31:52.167 HYPERVISOR: exec_cmd: vm create Ghost 0 c3600 
+Oct 22 00:31:52.181 VM: VM Ghost created.
+Oct 22 00:31:52.182 HYPERVISOR: exec_cmd: vm set_ios Ghost /home/irvingguerra/GNS3/images/IOS/c3640-a3js-mz.124-25d.image 
+Oct 22 00:31:52.183 HYPERVISOR: exec_cmd: vm set_ghost_status Ghost 1 
+Oct 22 00:31:52.183 HYPERVISOR: exec_cmd: vm set_ghost_file Ghost '/home/irvingguerra/Documentos/AdministracionDeServiciosEnRed/Corte 2/Practica 2/Practica 2/Practica 2/project-files/dynamips/c3640-a3js-mz.124-25d.image-192.ghost' 
+Oct 22 00:31:52.184 HYPERVISOR: exec_cmd: vm get_status R2 
+Oct 22 00:31:52.185 HYPERVISOR: exec_cmd: vm set_config R2 configs/i2_startup-config.cfg 
+Oct 22 00:31:52.186 HYPERVISOR: exec_cmd: vm start R2 
+Oct 22 00:32:22.597 HYPERVISOR: exec_cmd: vm extract_config R2 
+Oct 22 00:34:36.194 HYPERVISOR: exec_cmd: vm set_ios R2 /home/irvingguerra/GNS3/images/IOS/c3640-a3js-mz.124-25d.image 
+Oct 22 00:34:53.246 HYPERVISOR: exec_cmd: nio create_udp udp-575d7a5a-a402-4c28-bcf6-856c287bf528 10034 127.0.0.1 10035 
+Oct 22 00:34:53.481 HYPERVISOR: exec_cmd: vm slot_add_nio_binding R2 0 0 udp-575d7a5a-a402-4c28-bcf6-856c287bf528 
+Oct 22 00:34:53.483 HYPERVISOR: exec_cmd: vm get_status R2 
+Oct 22 00:34:53.483 HYPERVISOR: exec_cmd: vm slot_enable_nio R2 0 0 
+Oct 22 00:34:57.718 HYPERVISOR: exec_cmd: nio create_udp udp-a3517c26-d971-4e35-94ec-3d059fffcd70 10038 127.0.0.1 10039 
+Oct 22 00:34:57.723 HYPERVISOR: exec_cmd: vm slot_add_nio_binding R2 1 0 udp-a3517c26-d971-4e35-94ec-3d059fffcd70 
+Oct 22 00:34:57.724 HYPERVISOR: exec_cmd: vm get_status R2 
+Oct 22 00:34:57.724 HYPERVISOR: exec_cmd: vm slot_enable_nio R2 1 0 
+Oct 22 00:41:46.760 HYPERVISOR: exec_cmd: vm get_status R2 
+Oct 22 00:41:46.761 HYPERVISOR: exec_cmd: vm slot_disable_nio R2 0 0 
+Oct 22 00:41:46.778 HYPERVISOR: exec_cmd: vm slot_remove_nio_binding R2 0 0 
+Oct 22 00:41:46.782 HYPERVISOR: exec_cmd: nio delete udp-575d7a5a-a402-4c28-bcf6-856c287bf528 
+Oct 22 00:41:52.637 HYPERVISOR: exec_cmd: vm extract_config R2 
+Oct 22 00:42:04.892 HYPERVISOR: exec_cmd: nio create_udp udp-9f982482-c2cd-47c2-af32-cc6e9879b8ac 10042 127.0.0.1 10043 
+Oct 22 00:42:04.895 HYPERVISOR: exec_cmd: vm slot_add_nio_binding R2 0 0 udp-9f982482-c2cd-47c2-af32-cc6e9879b8ac 
+Oct 22 00:42:04.895 HYPERVISOR: exec_cmd: vm get_status R2 
+Oct 22 00:42:04.896 HYPERVISOR: exec_cmd: vm slot_enable_nio R2 0 0 
+Oct 22 00:51:22.679 HYPERVISOR: exec_cmd: vm extract_config R2 
+Oct 22 01:01:52.726 HYPERVISOR: exec_cmd: vm extract_config R2 
+Oct 22 01:06:55.986 HYPERVISOR: exec_cmd: vm get_status R2 
+Oct 22 01:06:55.986 HYPERVISOR: exec_cmd: vm stop R2 
+Oct 22 01:06:56.232 VM: VM R2 shutdown.
+Oct 22 01:06:56.235 HYPERVISOR: exec_cmd: vm extract_config R2 

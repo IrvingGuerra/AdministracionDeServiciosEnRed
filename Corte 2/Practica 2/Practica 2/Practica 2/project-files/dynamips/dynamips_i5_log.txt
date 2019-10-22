@@ -1,0 +1,42 @@
+Oct 22 00:31:28.398 HYPERVISOR: Release 0.2.21-amd64/Linux (tag 2019071212)
+Oct 22 00:31:28.398 HYPERVISOR: Started on IP = 127.0.0.1, TCP port = 39267.
+Oct 22 00:31:28.407 HYPERVISOR: exec_cmd: hypervisor version 
+Oct 22 00:31:28.408 HYPERVISOR: exec_cmd: hypervisor working_dir /home/irvingguerra/Documentos/AdministracionDeServiciosEnRed/Corte 2/Practica 2/Practica 2/Practica 2/project-files/dynamips 
+Oct 22 00:31:28.408 GENERAL: working_dir=/home/irvingguerra/Documentos/AdministracionDeServiciosEnRed/Corte 2/Practica 2/Practica 2/Practica 2/project-files/dynamips
+Oct 22 00:31:28.409 HYPERVISOR: exec_cmd: hypervisor working_dir /home/irvingguerra/Documentos/AdministracionDeServiciosEnRed/Corte 2/Practica 2/Practica 2/Practica 2/project-files/dynamips/83f9d2b7-4dbd-482d-b992-89d9d565cfc7 
+Oct 22 00:31:28.409 GENERAL: working_dir=/home/irvingguerra/Documentos/AdministracionDeServiciosEnRed/Corte 2/Practica 2/Practica 2/Practica 2/project-files/dynamips/83f9d2b7-4dbd-482d-b992-89d9d565cfc7
+Oct 22 00:31:28.409 HYPERVISOR: exec_cmd: vm create SW1 3 c3600 
+Oct 22 00:31:28.409 VM: VM SW1 created.
+Oct 22 00:31:28.410 HYPERVISOR: exec_cmd: vm set_con_tcp_port SW1 5002 
+Oct 22 00:31:28.410 HYPERVISOR: exec_cmd: c3600 get_mac_addr SW1 
+Oct 22 00:31:28.412 HYPERVISOR: exec_cmd: vm set_ios SW1 /home/irvingguerra/GNS3/images/IOS/c3640-a3js-mz.124-25d.image 
+Oct 22 00:31:28.413 HYPERVISOR: exec_cmd: vm get_status SW1 
+Oct 22 00:31:28.413 HYPERVISOR: exec_cmd: vm set_idle_pc SW1 0x6050b114 
+Oct 22 00:31:28.414 HYPERVISOR: exec_cmd: vm set_ram SW1 192 
+Oct 22 00:31:28.415 HYPERVISOR: exec_cmd: vm set_nvram SW1 256 
+Oct 22 00:31:28.416 HYPERVISOR: exec_cmd: vm get_status SW1 
+Oct 22 00:31:28.416 HYPERVISOR: exec_cmd: vm slot_add_binding SW1 0 0 NM-16ESW 
+Oct 22 00:31:28.581 HYPERVISOR: exec_cmd: vm set_ios SW1 /home/irvingguerra/GNS3/images/IOS/c3640-a3js-mz.124-25d.image 
+Oct 22 00:31:29.812 HYPERVISOR: exec_cmd: vm set_ios SW1 /home/irvingguerra/GNS3/images/IOS/c3640-a3js-mz.124-25d.image 
+Oct 22 00:31:40.358 HYPERVISOR: exec_cmd: nio create_udp udp-f04beefe-257c-4ef6-ba99-7d3978a79b96 10008 127.0.0.1 10009 
+Oct 22 00:31:40.599 HYPERVISOR: exec_cmd: vm slot_add_nio_binding SW1 0 0 udp-f04beefe-257c-4ef6-ba99-7d3978a79b96 
+Oct 22 00:31:40.600 HYPERVISOR: exec_cmd: vm get_status SW1 
+Oct 22 00:31:43.142 HYPERVISOR: exec_cmd: nio create_udp udp-134d9b1f-43d5-44e2-bac0-f5542efe5de8 10020 127.0.0.1 10021 
+Oct 22 00:31:43.146 HYPERVISOR: exec_cmd: vm slot_add_nio_binding SW1 0 1 udp-134d9b1f-43d5-44e2-bac0-f5542efe5de8 
+Oct 22 00:31:43.146 HYPERVISOR: exec_cmd: vm get_status SW1 
+Oct 22 00:31:48.150 HYPERVISOR: exec_cmd: nio create_udp udp-ff244284-7cef-4776-904a-89e594e9d721 10024 127.0.0.1 10025 
+Oct 22 00:31:48.154 HYPERVISOR: exec_cmd: vm slot_add_nio_binding SW1 0 2 udp-ff244284-7cef-4776-904a-89e594e9d721 
+Oct 22 00:31:48.155 HYPERVISOR: exec_cmd: vm get_status SW1 
+Oct 22 00:31:52.622 HYPERVISOR: exec_cmd: vm create Ghost 0 c3600 
+Oct 22 00:31:52.622 VM: VM Ghost created.
+Oct 22 00:31:52.623 HYPERVISOR: exec_cmd: vm set_ios Ghost /home/irvingguerra/GNS3/images/IOS/c3640-a3js-mz.124-25d.image 
+Oct 22 00:31:52.624 HYPERVISOR: exec_cmd: vm set_ghost_status Ghost 1 
+Oct 22 00:31:52.625 HYPERVISOR: exec_cmd: vm set_ghost_file Ghost '/home/irvingguerra/Documentos/AdministracionDeServiciosEnRed/Corte 2/Practica 2/Practica 2/Practica 2/project-files/dynamips/c3640-a3js-mz.124-25d.image-192.ghost' 
+Oct 22 00:31:52.626 HYPERVISOR: exec_cmd: vm get_status SW1 
+Oct 22 00:31:52.627 HYPERVISOR: exec_cmd: vm set_config SW1 configs/i3_startup-config.cfg 
+Oct 22 00:31:52.627 HYPERVISOR: exec_cmd: vm start SW1 
+Oct 22 00:32:23.057 HYPERVISOR: exec_cmd: vm extract_config SW1 
+Oct 22 01:06:56.254 HYPERVISOR: exec_cmd: vm get_status SW1 
+Oct 22 01:06:56.324 HYPERVISOR: exec_cmd: vm stop SW1 
+Oct 22 01:06:56.714 VM: VM SW1 shutdown.
+Oct 22 01:06:56.715 HYPERVISOR: exec_cmd: vm extract_config SW1 

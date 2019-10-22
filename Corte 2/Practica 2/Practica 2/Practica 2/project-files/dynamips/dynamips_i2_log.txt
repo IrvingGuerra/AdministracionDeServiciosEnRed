@@ -1,0 +1,25 @@
+Oct 22 00:17:37.431 HYPERVISOR: Release 0.2.21-amd64/Linux (tag 2019071212)
+Oct 22 00:17:37.431 HYPERVISOR: Started on IP = 127.0.0.1, TCP port = 53653.
+Oct 22 00:17:37.440 HYPERVISOR: exec_cmd: hypervisor version 
+Oct 22 00:17:37.440 HYPERVISOR: exec_cmd: hypervisor working_dir /home/irvingguerra/Documentos/AdministracionDeServiciosEnRed/Corte 2/Practica 2/Practica 2/Practica 2/project-files/dynamips 
+Oct 22 00:17:37.440 GENERAL: working_dir=/home/irvingguerra/Documentos/AdministracionDeServiciosEnRed/Corte 2/Practica 2/Practica 2/Practica 2/project-files/dynamips
+Oct 22 00:17:37.441 HYPERVISOR: exec_cmd: ethsw create Ethernetswitch-1 
+Oct 22 00:17:38.964 HYPERVISOR: exec_cmd: nio create_udp udp-1dab16f4-cd59-45a4-bf62-7915dea82ae2 10000 127.0.0.1 10001 
+Oct 22 00:17:38.965 HYPERVISOR: exec_cmd: ethsw add_nio Ethernetswitch-1 udp-1dab16f4-cd59-45a4-bf62-7915dea82ae2 
+Oct 22 00:17:38.975 HYPERVISOR: exec_cmd: ethsw set_access_port Ethernetswitch-1 udp-1dab16f4-cd59-45a4-bf62-7915dea82ae2 1 
+Oct 22 00:17:39.732 HYPERVISOR: exec_cmd: nio create_udp udp-7aa47a50-1228-47a8-8f93-388f62d84df9 10009 127.0.0.1 10008 
+Oct 22 00:17:39.733 HYPERVISOR: exec_cmd: ethsw add_nio Ethernetswitch-1 udp-7aa47a50-1228-47a8-8f93-388f62d84df9 
+Oct 22 00:17:39.739 HYPERVISOR: exec_cmd: ethsw set_access_port Ethernetswitch-1 udp-7aa47a50-1228-47a8-8f93-388f62d84df9 1 
+Oct 22 00:17:40.024 HYPERVISOR: exec_cmd: nio create_udp udp-5da9a4e2-8a74-4caa-b433-b5dc1ed5a324 10011 127.0.0.1 10010 
+Oct 22 00:17:40.025 HYPERVISOR: exec_cmd: ethsw add_nio Ethernetswitch-1 udp-5da9a4e2-8a74-4caa-b433-b5dc1ed5a324 
+Oct 22 00:17:40.041 HYPERVISOR: exec_cmd: ethsw set_access_port Ethernetswitch-1 udp-5da9a4e2-8a74-4caa-b433-b5dc1ed5a324 1 
+Oct 22 00:31:21.508 HYPERVISOR: exec_cmd: ethsw remove_nio Ethernetswitch-1 udp-1dab16f4-cd59-45a4-bf62-7915dea82ae2 
+Oct 22 00:31:21.553 HYPERVISOR: exec_cmd: nio delete udp-1dab16f4-cd59-45a4-bf62-7915dea82ae2 
+Oct 22 00:31:22.740 HYPERVISOR: exec_cmd: ethsw remove_nio Ethernetswitch-1 udp-7aa47a50-1228-47a8-8f93-388f62d84df9 
+Oct 22 00:31:22.759 HYPERVISOR: exec_cmd: nio delete udp-7aa47a50-1228-47a8-8f93-388f62d84df9 
+Oct 22 00:31:23.016 HYPERVISOR: exec_cmd: ethsw remove_nio Ethernetswitch-1 udp-5da9a4e2-8a74-4caa-b433-b5dc1ed5a324 
+Oct 22 00:31:23.019 HYPERVISOR: exec_cmd: nio delete udp-5da9a4e2-8a74-4caa-b433-b5dc1ed5a324 
+Oct 22 00:31:23.086 HYPERVISOR: exec_cmd: ethsw delete Ethernetswitch-1 
+Oct 22 00:31:23.087 HYPERVISOR: exec_cmd: hypervisor stop 
+Oct 22 00:31:23.292 HYPERVISOR: Stopped.
+Oct 22 00:31:23.292 GENERAL: reset done.
