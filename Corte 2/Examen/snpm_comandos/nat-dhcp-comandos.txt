@@ -1,0 +1,19 @@
+# pool dhcp y config dhcp
+ip dhcp excluded-address 30.30.30.1 30.30.30.1
+ip dhcp pool DEADPOOL 
+network 30.30.30.0 255.255.255.0
+
+default-router 30.30.30.1
+
+# pool y list para nat y config nat
+
+access-list 1 deny 30.30.30.1 0.0.0.0
+access-list 1 permit 30.30.30.0 0.0.0.255
+
+ip nat pool NATPOOL 192.168.10.2 192.168.10.3 netmask 255.255.255.0
+
+ip nat inside source list 1 pool NATPOOL override
+int f0/0
+ip nat outside
+int f0/1
+ip nat inside

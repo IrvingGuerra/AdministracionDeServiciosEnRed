@@ -1,0 +1,19 @@
+snmp-server community ro_4CM1 ro HOSTS
+snmp-server community rw_4CM1 rw HOSTS
+snmp-server location ESCOM_4CM1
+snmp-server contact fugalkev@gmail.com
+snmp-server group 4CM1 v3 priv write v1default
+snmp-server user admin 4CM1 v3 auth sha abcdefgh priv des abcdefgh
+
+snmp-server host 192.168.20.10 version 3 priv admin
+snmp-server host 192.168.20.10 version 2c ro_4CM1
+snmp-server host 20.20.20.18 version 3 priv admin
+snmp-server host 20.20.20.18 version 2c ro_4CM1
+
+snmp-server enable traps
+
+ip access-list standard HOSTS
+permit 192.168.20.10
+permit 20.20.20.18
+exit
+
